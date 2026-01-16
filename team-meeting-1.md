@@ -3,7 +3,7 @@ layout: default
 title: Team Meeting 1 Agenda
 ---
 
-[← Back to Home](index)
+[← Back to Home](index.html)
 
 ## Introductions and Chapter Selection
 

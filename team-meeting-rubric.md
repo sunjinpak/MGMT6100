@@ -3,7 +3,7 @@ layout: default
 title: Team Meeting Rubric
 ---
 
-[← Back to Home](index)
+[← Back to Home](index.html)
 
 ## Table of Contents
 

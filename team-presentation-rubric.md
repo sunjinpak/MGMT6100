@@ -3,7 +3,7 @@ layout: default
 title: Team Presentation Rubric
 ---
 
-[← Back to Home](index)
+[← Back to Home](index.html)
 
 ## Table of Contents
 

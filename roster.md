@@ -3,14 +3,14 @@ layout: default
 title: Student Roster
 ---
 
-[← Back to Home](index)
+[← Back to Home](index.html)
 
 ---
 layout: default
 title: Student Roster
 ---
 
-[← Back to Home](index) | [Syllabus](syllabus)
+[← Back to Home](index.html) | [Syllabus](syllabus)
 
 **[Download Word Document](Roster.docx)**
 

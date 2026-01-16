@@ -3,7 +3,7 @@ layout: default
 title: MGMT 6100 Syllabus - Spring 2026
 ---
 
-[← Back to Home](index)
+[← Back to Home](index.html)
 
 ## Human Resources Management
 ### Spring 2026 (3 units)
