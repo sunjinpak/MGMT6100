@@ -6,12 +6,16 @@
 /* Custom styles for MGMT 6100 */
 
 /* Make all tables full width */
-table {
-  width: 100%;
-  display: table;
+.main-content table {
+  width: 100% !important;
+  max-width: 100% !important;
+  display: table !important;
+  table-layout: fixed !important;
 }
 
 /* Ensure table cells have proper padding */
-table th, table td {
+.main-content table th,
+.main-content table td {
   padding: 8px 12px;
+  word-wrap: break-word;
 }
