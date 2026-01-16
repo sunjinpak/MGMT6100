@@ -7,6 +7,8 @@ title: Team Meeting 2 Agenda
 
 **[Download Word Document](Team-Meeting-2.docx)**
 
+# Team Meeting Agenda - Second Team Meeting
+
 ## Team Presentation Preparation
 
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
@@ -79,14 +81,18 @@ Look at the syllabus together and find your team's assigned chapter and presenta
 
 ### [10 minutes] Review the Team Presentation Rubric
 
-Open the [Team Presentation Rubric](team-presentation-rubric) in the syllabus and review it together as a team. Discuss each evaluation criteria.
+Open the [Team Presentation Rubric](team-presentation-rubric.html) in the syllabus and review it together as a team. Discuss each evaluation criteria.
 
 **Key sections to review:**
 
 - Preparation (24 points)
+
 - Content and Slide Quality (24 points)
+
 - Presentation (24 points)
+
 - Interaction with the Audience (24 points)
+
 - Discussion Facilitation (24 points)
 
 **Note-taking tip:** Team members share their thoughts freely, and the Notetaker records them below. The Notetaker can also share and write their own thoughts. Keep it brief during the meeting (use short keywords). You can use AI to polish your notes after the meeting.
@@ -125,8 +131,11 @@ As a team, decide which online presentation tool you will use to create your sli
 **Options:**
 
 - Google Slides (Recommended - easy to collaborate)
+
 - Microsoft PowerPoint Online
+
 - Canva
+
 - Other: ________________
 
 | Item | Details |

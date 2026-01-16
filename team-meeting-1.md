@@ -7,6 +7,8 @@ title: Team Meeting 1 Agenda
 
 **[Download Word Document](Team-Meeting-1.docx)**
 
+# Team Meeting Agenda - First Team Meeting
+
 ## Introductions and Chapter Selection
 
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
@@ -98,8 +100,11 @@ One chapter will be assigned to your team for the team presentation. Your role i
 **Important Guidelines:**
 
 - Use the discussion questions provided in the case study
+
 - If those questions seem unlikely to generate good discussion, create your own discussion questions
+
 - Focus only on chapter content directly relevant to discussion facilitation
+
 - Your role is discussion facilitation, not summarizing chapters
 
 **Note:** Check the syllabus to see which chapters have Team Presentations and their dates. Please review your schedules and ensure you do not select chapters for dates when you will be absent.
@@ -128,14 +133,19 @@ As a presenter, your primary role is to be a **discussion facilitator**, not to 
 **Your Role as a Presenter:**
 
 - Facilitate discussion based on the assigned case study
+
 - Engage the audience by asking questions (at least one question per slide)
+
 - Share personal experiences to make the content relatable
+
 - Keep the audience involved throughout the presentation
 
 **Key Points:**
 
 - Every team member must actively participate in the presentation
+
 - Meet with your instructor before your presentation date to review your plan
+
 - Focus on discussion facilitation, not summarizing or explaining chapters
 
 | Name | What can you learn from this activity? |
@@ -165,10 +175,15 @@ You will work with your team members to complete different activities throughout
 **Examples of team agreements:**
 
 - We agree to be punctual and arrive on time for all team meetings
+
 - We agree to be polite and respectful to each other in team discussions
+
 - We agree to come prepared to all meetings with completed individual work
+
 - We agree to communicate openly and honestly about challenges or conflicts
+
 - We agree to share workload equally among all team members
+
 - We agree to respond to team messages within 24 hours
 
 **Your Team's Agreed Rules:**
