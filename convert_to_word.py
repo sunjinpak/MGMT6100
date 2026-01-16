@@ -94,8 +94,8 @@ def preprocess_markdown(content):
     content = re.sub(r'^---\n.*?\n---\n', '', content, flags=re.DOTALL)
 
     # Remove navigation links at top
-    content = re.sub(r'^\[.*?\]\(index\).*?\n+', '', content)
-    content = re.sub(r'^\*\*\[Download Word Document\].*?\*\*\n+', '', content)
+    content = re.sub(r'\[← Back to Home\]\([^\)]+\)\s*\n*', '', content)
+    content = re.sub(r'\*\*\[Download Word Document\][^\n]*\*\*\s*\n*', '', content)
 
     # Convert HTML header tags to markdown
     content = re.sub(r'<h2[^>]*>([^<]+)</h2>', r'## \1\n', content)
@@ -108,6 +108,9 @@ def preprocess_markdown(content):
     # Convert HTML paragraph tags (handle multiline)
     content = re.sub(r'<p[^>]*>\s*\n?', '', content)
     content = re.sub(r'\n?\s*</p>', '\n', content)
+
+    # Convert all <br> to ⏎ marker (will be converted to actual line breaks in postprocess)
+    content = content.replace('<br>', '⏎')
 
     # Convert relative links to absolute GitHub Pages URLs
     base_url = "https://sunjinpak.github.io/MGMT6100/"
@@ -122,9 +125,6 @@ def preprocess_markdown(content):
         return f'[{text}]({base_url}{url})'
 
     content = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', convert_link, content)
-
-    # Replace <br> with marker
-    content = content.replace('<br>', '⏎')
 
     # Ensure bullet lists have a blank line before them
     content = re.sub(r'([^\n])\n(- )', r'\1\n\n\2', content)
@@ -230,21 +230,20 @@ def postprocess_word(doc, filename=''):
     if 'syllabus' in filename.lower():
         add_toc_links(doc)
 
-        # Center align header paragraphs and convert line breaks
-        for i, para in enumerate(doc.paragraphs):
-            # Center the first 4 content paragraphs (title, subtitle, date, disclaimer)
+        # Center align header paragraphs
+        for para in doc.paragraphs:
             para_text = para.text.strip()
             if para_text.startswith('MGMT 6100') or para_text.startswith('Spring 2026'):
                 center_paragraph(para)
             elif 'Jan 20 Tue' in para_text or 'subject to change' in para_text:
                 center_paragraph(para)
-
-            # Convert line break markers in paragraphs
-            convert_linebreaks_in_paragraph(para)
-
-            # Stop after Table of Contents
+            # Stop after Table of Contents for centering
             if 'Table of Contents' in para_text:
                 break
+
+    # Convert line break markers in ALL paragraphs
+    for para in doc.paragraphs:
+        convert_linebreaks_in_paragraph(para)
 
     # Add borders and set full width for all tables
     for table in doc.tables:
