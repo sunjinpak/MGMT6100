@@ -26,3 +26,19 @@
   white-space: nowrap;
   width: 1%;
 }
+
+/* Second column (#) should be compact */
+.main-content table th:nth-child(2),
+.main-content table td:nth-child(2) {
+  white-space: nowrap;
+  width: 1%;
+  text-align: center;
+}
+
+/* Last column (Points) should be compact */
+.main-content table th:last-child,
+.main-content table td:last-child {
+  white-space: nowrap;
+  width: 1%;
+  text-align: center;
+}
