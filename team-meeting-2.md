@@ -5,6 +5,8 @@ title: Team Meeting 2 Agenda
 
 [← Back to Home](index.html)
 
+**[Download Word Document](Team-Meeting-2.docx)**
+
 ## Team Presentation Preparation
 
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
