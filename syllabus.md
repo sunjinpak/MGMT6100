@@ -7,17 +7,15 @@ title: MGMT 6100 Syllabus - Spring 2026
 
 **[Download Word Document](Syllabus.docx)**
 
-<div style="text-align: center">
+<h2 style="text-align: center">MGMT 6100 Human Resources Management</h2>
+<h3 style="text-align: center">Spring 2026 (3 units)</h3>
 
-## MGMT 6100 Human Resources Management
-### Spring 2026 (3 units)
+<p style="text-align: center">
+<strong>Jan 20 Tue - May 18 Mon, 2026</strong><br>
+<strong>TuTh 7:00 PM - 8:15 PM; Business Development Ctr 165B</strong>
+</p>
 
-**Jan 20 Tue - May 18 Mon, 2026**<br>
-**TuTh 7:00 PM - 8:15 PM; Business Development Ctr 165B**
-
-*This syllabus is subject to change based on the needs of the class.*
-
-</div>
+<p style="text-align: center"><em>This syllabus is subject to change based on the needs of the class.</em></p>
 
 ---
 
