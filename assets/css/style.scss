@@ -5,19 +5,20 @@
 
 /* Custom styles for MGMT 6100 */
 
-/* Make tables fit content width, not exceed screen */
+/* Make tables fit within screen width */
 .main-content table {
-  width: auto !important;
+  width: 100% !important;
   max-width: 100% !important;
   display: table !important;
-  table-layout: auto !important;
+  table-layout: fixed !important;
 }
 
-/* Ensure table cells have proper padding */
+/* Ensure table cells wrap text properly */
 .main-content table th,
 .main-content table td {
   padding: 8px 12px;
   word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 /* First column (Date) should be compact */
