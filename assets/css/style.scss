@@ -37,9 +37,9 @@
   text-align: center;
 }
 
-/* Last column (Points) should be compact */
-.main-content table th:last-child,
-.main-content table td:last-child {
+/* Fourth column (Points in 4-column tables) should be compact */
+.main-content table th:nth-child(4),
+.main-content table td:nth-child(4) {
   white-space: nowrap;
   width: 1%;
   text-align: center;
