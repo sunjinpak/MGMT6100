@@ -29,9 +29,9 @@
   min-width: 0 !important;
 }
 
-/* Second column (#) should be compact */
-.main-content table th:nth-child(2),
-.main-content table td:nth-child(2) {
+/* Second column (#) should be compact - only in tables with 3+ columns */
+.main-content table th:nth-child(2):not(:last-child),
+.main-content table td:nth-child(2):not(:last-child) {
   white-space: nowrap;
   width: 1%;
   text-align: center;
