@@ -5,12 +5,12 @@
 
 /* Custom styles for MGMT 6100 */
 
-/* Make all tables full width */
+/* Make all tables full width with auto column sizing */
 .main-content table {
   width: 100% !important;
   max-width: 100% !important;
   display: table !important;
-  table-layout: fixed !important;
+  table-layout: auto !important;
 }
 
 /* Ensure table cells have proper padding */
@@ -18,4 +18,11 @@
 .main-content table td {
   padding: 8px 12px;
   word-wrap: break-word;
+}
+
+/* First column (Date) should be compact */
+.main-content table th:first-child,
+.main-content table td:first-child {
+  white-space: nowrap;
+  width: 1%;
 }
