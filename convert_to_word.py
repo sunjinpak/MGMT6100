@@ -97,6 +97,18 @@ def preprocess_markdown(content):
     content = re.sub(r'^\[.*?\]\(index\).*?\n+', '', content)
     content = re.sub(r'^\*\*\[Download Word Document\].*?\*\*\n+', '', content)
 
+    # Convert HTML header tags to markdown
+    content = re.sub(r'<h2[^>]*>([^<]+)</h2>', r'## \1\n', content)
+    content = re.sub(r'<h3[^>]*>([^<]+)</h3>', r'### \1\n', content)
+
+    # Convert strong and em tags (do this before removing p tags)
+    content = re.sub(r'<strong>([^<]+)</strong>', r'**\1**', content)
+    content = re.sub(r'<em>([^<]+)</em>', r'*\1*', content)
+
+    # Convert HTML paragraph tags (handle multiline)
+    content = re.sub(r'<p[^>]*>\s*\n?', '', content)
+    content = re.sub(r'\n?\s*</p>', '\n', content)
+
     # Convert relative links to absolute GitHub Pages URLs
     base_url = "https://sunjinpak.github.io/MGMT6100/"
 
