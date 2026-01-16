@@ -5,9 +5,9 @@
 
 /* Custom styles for MGMT 6100 */
 
-/* Make all tables full width with auto column sizing */
+/* Make tables fit content width, not exceed screen */
 .main-content table {
-  width: 100% !important;
+  width: auto !important;
   max-width: 100% !important;
   display: table !important;
   table-layout: auto !important;
