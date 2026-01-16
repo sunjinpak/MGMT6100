@@ -196,11 +196,55 @@ def add_toc_links(doc):
             if para.style and para.style.name.startswith('Heading') and "Table of Contents" not in para.text:
                 break
 
+def convert_linebreaks_in_paragraph(para):
+    """Convert ⏎ markers to actual line breaks in a paragraph."""
+    if '⏎' not in para.text:
+        return False
+
+    p = para._p
+    for run in p.findall('.//' + qn('w:r')):
+        for t_elem in run.findall(qn('w:t')):
+            if t_elem.text and '⏎' in t_elem.text:
+                parts = t_elem.text.split('⏎')
+                if len(parts) > 1:
+                    t_elem.text = parts[0]
+                    insert_after = t_elem
+                    for part in parts[1:]:
+                        br = parse_xml(r'<w:br xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>')
+                        insert_after.addnext(br)
+                        insert_after = br
+                        if part.strip():
+                            new_t = parse_xml(f'<w:t xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xml:space="preserve">{escape_xml(part)}</w:t>')
+                            insert_after.addnext(new_t)
+                            insert_after = new_t
+    return True
+
+def center_paragraph(para):
+    """Center align a paragraph."""
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    para.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
 def postprocess_word(doc, filename=''):
     """Post-process Word document."""
-    # Add TOC internal links for Syllabus
+    # Process syllabus-specific formatting
     if 'syllabus' in filename.lower():
         add_toc_links(doc)
+
+        # Center align header paragraphs and convert line breaks
+        for i, para in enumerate(doc.paragraphs):
+            # Center the first 4 content paragraphs (title, subtitle, date, disclaimer)
+            para_text = para.text.strip()
+            if para_text.startswith('MGMT 6100') or para_text.startswith('Spring 2026'):
+                center_paragraph(para)
+            elif 'Jan 20 Tue' in para_text or 'subject to change' in para_text:
+                center_paragraph(para)
+
+            # Convert line break markers in paragraphs
+            convert_linebreaks_in_paragraph(para)
+
+            # Stop after Table of Contents
+            if 'Table of Contents' in para_text:
+                break
 
     # Add borders and set full width for all tables
     for table in doc.tables:
