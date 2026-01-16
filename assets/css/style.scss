@@ -25,7 +25,8 @@
 .main-content table td:first-child {
   white-space: nowrap;
   width: 1%;
-  padding: 8px 6px !important;
+  padding: 8px 4px !important;
+  min-width: 0 !important;
 }
 
 /* Second column (#) should be compact */
