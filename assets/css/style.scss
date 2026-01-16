@@ -5,43 +5,19 @@
 
 /* Custom styles for MGMT 6100 */
 
-/* Make tables fit within screen width */
+/* Tables: fit within screen, auto column sizing */
 .main-content table {
   width: 100% !important;
   max-width: 100% !important;
   display: table !important;
-  table-layout: fixed !important;
+  table-layout: auto !important;
 }
 
-/* Ensure table cells wrap text properly */
+/* Table cells: wrap text properly */
 .main-content table th,
 .main-content table td {
   padding: 8px 12px;
   word-wrap: break-word;
   overflow-wrap: break-word;
-}
-
-/* First column (Date) should be compact */
-.main-content table th:first-child,
-.main-content table td:first-child {
-  white-space: nowrap;
-  width: 1%;
-  padding: 8px 4px !important;
-  min-width: 0 !important;
-}
-
-/* Second column (#) should be compact - only in tables with 3+ columns */
-.main-content table th:nth-child(2):not(:last-child),
-.main-content table td:nth-child(2):not(:last-child) {
-  white-space: nowrap;
-  width: 1%;
-  text-align: center;
-}
-
-/* Fourth column (Points in 4-column tables) should be compact */
-.main-content table th:nth-child(4),
-.main-content table td:nth-child(4) {
-  white-space: nowrap;
-  width: 1%;
-  text-align: center;
+  word-break: break-word;
 }
