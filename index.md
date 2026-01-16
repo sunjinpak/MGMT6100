@@ -45,6 +45,7 @@ title: MGMT 6100 - Human Resources Management
 - [Peer Review Evaluation Survey](https://sunjinpak.github.io/MGMT6100-peer-review/) - Complete after each team meeting
 - [Attendance Sheet](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?resourcekey=&gid=794768404#gid=794768404) - View attendance records
 - [Class Participation Report](https://docs.google.com/forms/d/e/1FAIpQLSf5KU1KgmxsIX9ORE6iyAR3Fab2pPpyxoRphO6A2PF5o2Lf6w/viewform?usp=sharing&ouid=111499124383075523992) - Report your activity at the end of each class
+- [Syllabus (Google Doc)](https://docs.google.com/document/d/13QoADqSTeRIOVa3AkhP1LD3zriP2Nndg/edit) - Editable syllabus document
 
 ---
 
