@@ -7,22 +7,22 @@ title: MGMT 6100 Syllabus - Spring 2026
 
 **[Download Word Document](Syllabus.docx)**
 
-## Human Resources Management
+## MGMT 6100 Human Resources Management
 ### Spring 2026 (3 units)
 
-**Jan 20 Tue - May 18 Mon, 2026**
+**Jan 20 Tue - May 18 Mon, 2026**<br>
 **TuTh 7:00 PM - 8:15 PM; Business Development Ctr 165B**
 
 *This syllabus is subject to change based on the needs of the class.*
 
 ---
 
-**Instructor:** Sunjin Pak, Assistant Professor of Management
-**Office:** BDC A137
+**Instructor:** Sunjin Pak, Assistant Professor of Management<br>
+**Office:** BDC A137<br>
 **Office hours:** Tuesday/Thursday 6:00-7:00pm & 8:15-9:15pm, Friday 12:00-1:00pm (in-person); Zoom by appointment
 
-**Email:** spak2@csub.edu
-**Homepage:** www.sunjinpak.com
+**Email:** spak2@csub.edu<br>
+**Homepage:** www.sunjinpak.com<br>
 **LinkedIn:** www.linkedin.com/in/sunjinpak
 
 **Attendance Sheet** [Link](https://docs.google.com/spreadsheets/d/1RReQqKICDKQinxK5MsUPZfKTdoXriUjxVFsybCBApaQ/edit?resourcekey=&gid=794768404#gid=794768404)
