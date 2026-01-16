@@ -5,16 +5,18 @@ title: Team Meeting Rubric
 
 [← Back to Home](index.html)
 
+**[Download Word Document](Team-Meeting-Rubric.docx)**
+
 ## Table of Contents
 
-- [#Overview](#overview)
-- [#Objective](#objective)
-- [#Team Roles and Preparation](#team-roles-and-preparation)
-- [#Debate Structure (25-30 minutes)](#debate-structure-(25-30-minutes))
-- [#Evaluation Rubric](#evaluation-rubric)
-- [#After the Meeting](#after-the-meeting)
-- [#Self and Peer Review Evaluation](#self-and-peer-review-evaluation)
-- [#Frequently Asked Questions](#frequently-asked-questions)
+- [Overview](#overview)
+- [Objective](#objective)
+- [Team Roles and Preparation](#team-roles-and-preparation)
+- [Debate Structure (25-30 minutes)](#debate-structure-(25-30-minutes))
+- [Evaluation Rubric](#evaluation-rubric)
+- [After the Meeting](#after-the-meeting)
+- [Self and Peer Review Evaluation](#self-and-peer-review-evaluation)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 ---
 

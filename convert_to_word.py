@@ -30,6 +30,23 @@ def set_table_borders(table):
     if tbl.tblPr is None:
         tbl.insert(0, tblPr)
 
+def set_table_full_width(table):
+    """Set table width to 100% of page width."""
+    tbl = table._tbl
+    tblPr = tbl.tblPr
+    if tblPr is None:
+        tblPr = parse_xml(r'<w:tblPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>')
+        tbl.insert(0, tblPr)
+
+    # Remove existing width setting if any
+    for child in list(tblPr):
+        if child.tag.endswith('}tblW'):
+            tblPr.remove(child)
+
+    # Set width to 100% (5000 = 100% in twentieths of a percent)
+    tblW = parse_xml(r'<w:tblW xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:type="pct" w:w="5000"/>')
+    tblPr.insert(0, tblW)
+
 def escape_xml(text):
     """Escape special XML characters."""
     text = text.replace('&', '&amp;')
@@ -173,9 +190,10 @@ def postprocess_word(doc, filename=''):
     if 'syllabus' in filename.lower():
         add_toc_links(doc)
 
-    # Add borders to all tables
+    # Add borders and set full width for all tables
     for table in doc.tables:
         set_table_borders(table)
+        set_table_full_width(table)
 
     # Process tables for line break markers
     for table in doc.tables:

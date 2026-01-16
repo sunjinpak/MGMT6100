@@ -5,17 +5,19 @@ title: Team Presentation Rubric
 
 [← Back to Home](index.html)
 
+**[Download Word Document](Team-Presentation-Rubric.docx)**
+
 ## Table of Contents
 
-- [#Sample Presentation Video](#sample-presentation-video)
-- [#Overview](#overview)
-- [#Objectives](#objectives)
-- [#Presentation Structure](#presentation-structure)
-- [#Slide Submission Guidelines](#slide-submission-guidelines)
-- [#Evaluation Criteria (Total: 120 points)](#evaluation-criteria-(total:-120-points))
-- [#Grading Scale](#grading-scale)
-- [#Tips for Success](#tips-for-success)
-- [#Notes](#notes)
+- [Sample Presentation Video](#sample-presentation-video)
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Presentation Structure](#presentation-structure)
+- [Slide Submission Guidelines](#slide-submission-guidelines)
+- [Evaluation Criteria (Total: 120 points)](#evaluation-criteria-(total:-120-points))
+- [Grading Scale](#grading-scale)
+- [Tips for Success](#tips-for-success)
+- [Notes](#notes)
 
 ---
 

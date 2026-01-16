@@ -5,6 +5,8 @@ title: MGMT 6100 Syllabus - Spring 2026
 
 [← Back to Home](index.html)
 
+**[Download Word Document](Syllabus.docx)**
+
 ## Human Resources Management
 ### Spring 2026 (3 units)
 
@@ -29,28 +31,28 @@ title: MGMT 6100 Syllabus - Spring 2026
 
 ## Table of Contents
 
-- [#Course Description](#course-description)
-- [#MBA Program Learning Objectives](#mba-program-learning-objectives)
-- [#Course Themes & Course Learning Objectives](#course-themes-&-course-learning-objectives)
-- [#Required Text and Materials](#required-text-and-materials)
-- [#Device Requirements for Class Activities](#device-requirements-for-class-activities)
-- [#Instructional Strategies & Classroom Policies](#instructional-strategies-&-classroom-policies)
-- [#Course Assessment](#course-assessment)
-- [#Grading Components](#grading-components)
-  - [#Attendance and Punctuality](#attendance-and-punctuality)
-  - [#Class Participation](#class-participation)
+- [Course Description](#course-description)
+- [MBA Program Learning Objectives](#mba-program-learning-objectives)
+- [Course Themes & Course Learning Objectives](#course-themes-&-course-learning-objectives)
+- [Required Text and Materials](#required-text-and-materials)
+- [Device Requirements for Class Activities](#device-requirements-for-class-activities)
+- [Instructional Strategies & Classroom Policies](#instructional-strategies-&-classroom-policies)
+- [Course Assessment](#course-assessment)
+- [Grading Components](#grading-components)
+  - [Attendance and Punctuality](#attendance-and-punctuality)
+  - [Class Participation](#class-participation)
 
-- [#Course Agenda](#course-agenda)
-- [#Statute of Limitations](#statute-of-limitations)
-- [#CSUB Student Chapter - Society for Human Resource Management (SHRM)](#csub-student-chapter---society-for-human-resource-management-(shrm))
-- [#Academic Calendar](#academic-calendar)
-- [#Instructor Initiated Drop Guidelines for Both Face-to-face & Online Classes](#instructor-initiated-drop-guidelines-for-both-face-to-face-&-online-classes)
-- [#Inclusiveness and Safety at CSUB](#inclusiveness-and-safety-at-csub)
-- [#Etiquette, & Civil Discourse & Student Conduct](#etiquette,-&-civil-discourse-&-student-conduct)
-- [#Academic Integrity](#academic-integrity)
-- [#Using AI Tools (ChatGPT)](#using-ai-tools-(chatgpt))
-- [#Catalog Statement](#catalog-statement)
-- [#CECE Workshops & Events](#cece-workshops-&-events)
+- [Course Agenda](#course-agenda)
+- [Statute of Limitations](#statute-of-limitations)
+- [CSUB Student Chapter - Society for Human Resource Management (SHRM)](#csub-student-chapter---society-for-human-resource-management-(shrm))
+- [Academic Calendar](#academic-calendar)
+- [Instructor Initiated Drop Guidelines for Both Face-to-face & Online Classes](#instructor-initiated-drop-guidelines-for-both-face-to-face-&-online-classes)
+- [Inclusiveness and Safety at CSUB](#inclusiveness-and-safety-at-csub)
+- [Etiquette, & Civil Discourse & Student Conduct](#etiquette,-&-civil-discourse-&-student-conduct)
+- [Academic Integrity](#academic-integrity)
+- [Using AI Tools (ChatGPT)](#using-ai-tools-(chatgpt))
+- [Catalog Statement](#catalog-statement)
+- [CECE Workshops & Events](#cece-workshops-&-events)
 
 ---
 
