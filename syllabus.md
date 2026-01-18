@@ -3,7 +3,7 @@ layout: default
 title: MGMT 6100 Syllabus - Spring 2026
 ---
 
-[← Back to Home](index.html)
+[Home](https://sunjinpak.github.io/MGMT6100/index.html)
 
 **[Download Word Document](Syllabus.docx)**
 
