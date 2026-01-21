@@ -49,7 +49,7 @@ title: Student Roster
 | 19  | 7    | John Hinojosa            | jhinojosa10@csub.edu       | -                   |
 | 20  | 7    | Javier Orellana Mixco    | jorellana@csub.edu         | Notetaker           |
 | 21  | 7    | Luis Salazar             | lsalazar9@csub.edu         | -                   |
-| 22  | 7    | Elijah Gutierrez         | Egutierrez72@csub.edu      | -                   |
+| 22  | 7    | Elijah Gutierrez         | egutierrez72@csub.edu      | -                   |
 | 23  | 8    | Brycen South             | bsouth@csub.edu            | -                   |
 | 24  | 8    | Nikhil Sutter            | nsutter@csub.edu           | Notetaker           |
 | 25  | 8    | Luis Valenzuela          | lvalenzueela@csub.edu      | -                   |
