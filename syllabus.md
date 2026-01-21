@@ -12,7 +12,7 @@ title: MGMT 6100 Syllabus - Spring 2026
 
 <p style="text-align: center">
 <strong>Jan 20 Tue - May 18 Mon, 2026</strong><br>
-<strong>TuTh 7:00 PM - 8:15 PM; Business Development Ctr 165B</strong>
+<strong>TuTh 7:00 PM - 8:15 PM; DLDC Dezember Leadership 401D</strong>
 </p>
 
 <p style="text-align: center"><em>This syllabus is subject to change based on the needs of the class.</em></p>

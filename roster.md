@@ -19,8 +19,8 @@ title: Student Roster
 ## Course Information
 
 - **Section**: MGMT 6100-01
-- **Total Students**: 25
-- **Teams**: 8 (7 teams of 3 + 1 team of 4)
+- **Total Students**: 26
+- **Teams**: 8 (6 teams of 3 + 2 teams of 4)
 
 ---
 
@@ -49,10 +49,11 @@ title: Student Roster
 | 19  | 7    | John Hinojosa            | jhinojosa10@csub.edu       | -                   |
 | 20  | 7    | Javier Orellana Mixco    | jorellana@csub.edu         | Notetaker           |
 | 21  | 7    | Luis Salazar             | lsalazar9@csub.edu         | -                   |
-| 22  | 8    | Brycen South             | bsouth@csub.edu            | -                   |
-| 23  | 8    | Nikhil Sutter            | nsutter@csub.edu           | Notetaker           |
-| 24  | 8    | Luis Valenzuela          | lvalenzueela@csub.edu      | -                   |
-| 25  | 8    | John Velazquez           | jvelazquez7@csub.edu       | -                   |
+| 22  | 7    | Elijah Gutierrez         | Egutierrez72@csub.edu      | -                   |
+| 23  | 8    | Brycen South             | bsouth@csub.edu            | -                   |
+| 24  | 8    | Nikhil Sutter            | nsutter@csub.edu           | Notetaker           |
+| 25  | 8    | Luis Valenzuela          | lvalenzueela@csub.edu      | -                   |
+| 26  | 8    | John Velazquez           | jvelazquez7@csub.edu       | -                   |
 
 ---
 
