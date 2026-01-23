@@ -178,12 +178,14 @@ Make sure your slides are accessible to everyone, including the instructor.
 2. If you can view it without signing in, your settings are correct
 3. If you need to sign in or request access, update sharing settings to "Anyone with the link can view"
 
+**Microsoft PowerPoint/OneDrive Users:** The university blocks the "Anyone" option. Instead, select **"People in CSU Bakersfield"** with **"Can view"** permission. This allows all CSUB students and faculty to access your slides.
+
 > **Warning:** If the instructor cannot open your slides during class, points will be deducted.
 
 | Checklist | Done (Y/N) |
 |-----------|------------|
 | Tested link in incognito window |  |
-| Link works without sign-in |  |
+| Link works without sign-in (or CSUB sign-in for Microsoft) |  |
 
 **Your Slide Link:** ________________________________
 
