@@ -131,7 +131,7 @@ Install "Google Sheets" and "Google Docs" on your laptop. I will use Google Shee
 
 ### 4. ChatGPT EDU
 
-Sign up for your ChatGPT EDU account. To complete the various tasks in this course, you must have access to ChatGPT EDU. You can access ChatGPT EDU through your CSUB account at: https://chatgpt.com
+Sign up for your ChatGPT EDU account. To complete the various tasks in this course, you must have access to ChatGPT EDU. You can access ChatGPT EDU through your CSUB account at: https://www.csub.edu/ai/chatgpt/index.shtml
 
 ---
 
