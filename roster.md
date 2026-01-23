@@ -19,8 +19,8 @@ title: Student Roster
 ## Course Information
 
 - **Section**: MGMT 6100-01
-- **Total Students**: 26
-- **Teams**: 8 (6 teams of 3 + 2 teams of 4)
+- **Total Students**: 25
+- **Teams**: 8 (7 teams of 3 + 1 team of 4)
 
 ---
 
@@ -39,7 +39,7 @@ title: Student Roster
 | 9   | 3    | Juan Chavez              | jchavez16@csub.edu         | -                   |
 | 10  | 4    | Lleyne Loya              | lloya1@csub.edu            | -                   |
 | 11  | 4    | Zaima Mahmood            | zmahmood1@csub.edu         | Notetaker           |
-| 12  | 4    | Daniel Esmond            | desmond@csub.edu           | -                   |
+| 12  | 4    | John Velazquez           | jvelazquez7@csub.edu       | -                   |
 | 13  | 5    | Araceli Ortega Hernandez | aortega-hernandez@csub.edu | -                   |
 | 14  | 5    | Teresa Ortega Hernandez  | tortega-hernandez@csub.edu | Notetaker           |
 | 15  | 5    | Daniel Fox               | dfox7@csub.edu             | -                   |
@@ -53,7 +53,6 @@ title: Student Roster
 | 23  | 8    | Brycen South             | bsouth@csub.edu            | -                   |
 | 24  | 8    | Nikhil Sutter            | nsutter@csub.edu           | Notetaker           |
 | 25  | 8    | Luis Valenzuela          | lvalenzueela@csub.edu      | -                   |
-| 26  | 8    | John Velazquez           | jvelazquez7@csub.edu       | -                   |
 
 ---
 
