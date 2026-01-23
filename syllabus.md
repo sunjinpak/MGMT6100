@@ -129,9 +129,9 @@ You will use Excel sheets to conduct various analyses during the semester. **(Du
 
 Install "Google Sheets" and "Google Docs" on your laptop. I will use Google Sheets and documents to conduct various surveys and quizzes in class.
 
-### 4. ChatGPT Plus
+### 4. ChatGPT EDU
 
-Sign up for your Chat GPT account. To complete the various tasks in this course, you must have a Chat GPT Plus subscription. You must use the following link to join the service: https://openai.com/blog/chatgpt
+Sign up for your ChatGPT EDU account. To complete the various tasks in this course, you must have access to ChatGPT EDU. You can access ChatGPT EDU through your CSUB account at: https://chatgpt.com
 
 ---
 
