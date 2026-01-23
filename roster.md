@@ -74,6 +74,21 @@ title: Student Roster
 
 ---
 
+## Chapter Presentation Assignment
+
+| Team | Chapter | Topic |
+|------|---------|-------|
+| Team 1 | Ch 7 | Selecting Human Resources |
+| Team 2 | Ch 8 | Training Human Resources |
+| Team 3 | Ch 4 | Workforce, Jobs, and Job Analysis |
+| Team 4 | Ch 6 | Recruiting High-Quality Talent |
+| Team 5 | Ch 11 | Total Rewards and Compensation |
+| Team 6 | Ch 2 | HR Strategy and Planning |
+| Team 7 | Ch 9 | Talent, Careers, and Development |
+| Team 8 | Ch 3 | Equal Employment Opportunity |
+
+---
+
 ## Instructor
 
 | Name | Email |
