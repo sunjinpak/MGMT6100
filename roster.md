@@ -44,7 +44,7 @@ title: Student Roster
 | 14  | 5    | Teresa Ortega Hernandez  | tortega-hernandez@csub.edu | Notetaker           |
 | 15  | 5    | Daniel Fox               | dfox7@csub.edu             | -                   |
 | 16  | 6    | Brenda Ruiz              | bruiz27@csub.edu           | -                   |
-| 17  | 6    | Jennifer Vielman         | jvielman@csub.edu          | Notetaker           |
+| 17  | 6    | Jenny (Jennifer) Vielman | jvielman@csub.edu          | Notetaker           |
 | 18  | 6    | Xavier Guzman Rivera     | xguzman-rivera@csub.edu    | -                   |
 | 19  | 7    | John Hinojosa            | jhinojosa10@csub.edu       | -                   |
 | 20  | 7    | Javier Orellana Mixco    | jorellana@csub.edu         | Notetaker           |
@@ -65,7 +65,7 @@ title: Student Roster
 | 3 | Prabhjot Kaur |
 | 4 | Zaima Mahmood |
 | 5 | Teresa Ortega Hernandez |
-| 6 | Jennifer Vielman |
+| 6 | Jenny (Jennifer) Vielman |
 | 7 | Javier Orellana Mixco |
 | 8 | Nikhil Sutter |
 
