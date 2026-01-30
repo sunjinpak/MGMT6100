@@ -14,43 +14,28 @@ title: "Team-Meeting-11"
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
-
 |------|---------|
-
 | Meeting Date |  |
-
 | Meeting Time |  |
-
 | Meeting Location |  |
-
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
-
 |------|------|
-
 | Notetaker |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
-
 |------|-----------------------|
-
 |  |  |
-
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -89,13 +74,9 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 > **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
 
 | Role | Name(s) |
-
 |------|---------|
-
 | Employee Advocate(s) |  |
-
 | Employer Advocate(s) |  |
-
 | Notetaker |  |
 
 ---
@@ -105,31 +86,20 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 Choose **3 topics** from the list below to debate today.
 
 | # | Debate Topic | Employee Perspective | Employer Perspective |
-
 |---|--------------|---------------------|---------------------|
-
 | 1 | Should benefits be flexible (employee choice) or standardized (same for all)? | Flexible benefits allow customization to individual needs | Standardized packages ensure equity and easier administration |
-
 | 2 | Should companies offer unlimited paid time off (PTO)? | Unlimited PTO trusts employees and supports work-life balance | Unlimited PTO may lead to less time taken and unclear expectations |
-
 | 3 | Should employers provide on-site childcare or childcare subsidies? | Childcare benefits support working parents and improve retention | Childcare benefits are costly and may not benefit all employees |
-
 | 4 | Should companies contribute to employee student loan repayment? | Student loan help attracts talent and reduces financial stress | Loan repayment benefits only some employees unfairly |
-
 | 5 | Should wellness programs with health screenings be mandatory? | Mandatory wellness violates privacy and may penalize unhealthy employees | Wellness programs reduce healthcare costs and benefit everyone |
-
 | 6 | Should parental leave be equal for all parents regardless of gender? | Equal leave promotes gender equality and supports all families | Different leave policies may reflect different recovery needs |
 
 **Our team's selected topics:**
 
 | Order | Topic # | Topic |
-
 | ----- | ------- | ----- |
-
 | 1st   |         |       |
-
 | 2nd   |         |       |
-
 | 3rd   |         |       |
 
 ---
@@ -151,13 +121,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 1: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -165,13 +131,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 2: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -179,13 +141,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 3: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -193,13 +151,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### [2 minutes] Final Reflection
 
 | Question | Notes |
-
 |----------|-------|
-
 | Which topic was most debatable? Why? |  |
-
 | What did you learn from the opposing view? |  |
-
 | Any common ground found across topics? |  |
 
 ---
@@ -209,13 +163,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 As this is our last team meeting, take a few minutes to reflect on the semester.
 
 | Question | Your Team's Thoughts |
-
 |----------|---------------------|
-
 | What was the most valuable thing you learned from the team debates this semester? |  |
-
 | How has participating in these debates changed how you think about HR issues? |  |
-
 | What advice would you give to future students about team meetings? |  |
 
 ---
@@ -239,17 +189,10 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
-
 |------|----------------------|
-
 | 1. |  |
-
 | 2. |  |
-
 | 3. |  |
-
 | 4. |  |
-
 | 5. |  |
-
 | 6. |  |

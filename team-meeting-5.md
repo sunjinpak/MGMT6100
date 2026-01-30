@@ -14,43 +14,28 @@ title: "Team-Meeting-5"
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
-
 |------|---------|
-
 | Meeting Date |  |
-
 | Meeting Time |  |
-
 | Meeting Location |  |
-
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
-
 |------|------|
-
 | Notetaker |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
-
 |------|-----------------------|
-
 |  |  |
-
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -89,13 +74,9 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 > **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
 
 | Role | Name(s) |
-
 |------|---------|
-
 | Employee Advocate(s) |  |
-
 | Employer Advocate(s) |  |
-
 | Notetaker |  |
 
 ---
@@ -105,31 +86,20 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 Choose **3 topics** from the list below to debate today.
 
 | # | Debate Topic | Employee Perspective | Employer Perspective |
-
 |---|--------------|---------------------|---------------------|
-
 | 1 | Should job descriptions be highly detailed or broad and flexible? | Detailed descriptions protect employees from scope creep and ensure fair workload | Flexible descriptions allow adaptation and encourage employee initiative |
-
 | 2 | Should companies rely more on gig workers instead of full-time employees? | Gig work lacks job security, benefits, and career development opportunities | Gig workers provide flexibility, reduce costs, and allow scaling as needed |
-
 | 3 | Should employees be required to work mandatory overtime during busy periods? | Mandatory overtime harms work-life balance and leads to burnout | Overtime is necessary to meet business demands and can benefit employees financially |
-
 | 4 | Should companies implement job rotation programs for all employees? | Job rotation provides skill development and prevents monotony | Job rotation disrupts productivity and may not suit all roles |
-
 | 5 | Should companies allow job sharing arrangements? | Job sharing supports work-life balance and retains valuable employees | Job sharing complicates coordination and may reduce accountability |
-
 | 6 | Should all listed job requirements be strictly enforced during hiring? | Strict requirements may exclude qualified candidates with transferable skills | Requirements ensure candidates can perform essential job functions |
 
 **Our team's selected topics:**
 
 | Order | Topic # | Topic |
-
 | ----- | ------- | ----- |
-
 | 1st   |         |       |
-
 | 2nd   |         |       |
-
 | 3rd   |         |       |
 
 ---
@@ -151,13 +121,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 1: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -165,13 +131,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 2: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -179,13 +141,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 3: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -193,13 +151,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### [2 minutes] Final Reflection
 
 | Question | Notes |
-
 |----------|-------|
-
 | Which topic was most debatable? Why? |  |
-
 | What did you learn from the opposing view? |  |
-
 | Any common ground found across topics? |  |
 
 ---
@@ -211,15 +165,10 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 **Our next meeting:**
 
 | Item | Details |
-
 |------|---------|
-
 | Date |  |
-
 | Time |  |
-
 | Meeting Location |  |
-
 | Notetaker |  |
 
 ---
@@ -233,17 +182,10 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
-
 |------|----------------------|
-
 | 1. |  |
-
 | 2. |  |
-
 | 3. |  |
-
 | 4. |  |
-
 | 5. |  |
-
 | 6. |  |

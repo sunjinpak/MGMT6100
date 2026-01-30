@@ -14,43 +14,28 @@ title: "Team-Meeting-10"
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
-
 |------|---------|
-
 | Meeting Date |  |
-
 | Meeting Time |  |
-
 | Meeting Location |  |
-
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
-
 |------|------|
-
 | Notetaker |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
-
 |------|-----------------------|
-
 |  |  |
-
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -89,13 +74,9 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 > **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
 
 | Role | Name(s) |
-
 |------|---------|
-
 | Employee Advocate(s) |  |
-
 | Employer Advocate(s) |  |
-
 | Notetaker |  |
 
 ---
@@ -105,31 +86,20 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 Choose **3 topics** from the list below to debate today.
 
 | # | Debate Topic | Employee Perspective | Employer Perspective |
-
 |---|--------------|---------------------|---------------------|
-
 | 1 | Are labor unions still necessary in today's workplace? | Unions protect workers' rights, ensure fair wages, and address safety | Modern labor laws protect workers; unions may create adversarial relationships |
-
 | 2 | Should companies be allowed to discourage union formation? | Employees have the right to organize without employer interference | Employers have free speech rights to share views on unionization |
-
 | 3 | Should essential workers (healthcare, utilities) be allowed to strike? | All workers deserve the right to strike as a bargaining tool | Strikes by essential workers endanger public health and safety |
-
 | 4 | Should union membership be required in unionized workplaces? | Union dues ensure fair representation for all benefiting workers | Forced membership violates individual freedom of association |
-
 | 5 | Should management be allowed to attend union meetings? | Union meetings should be private spaces for workers | Transparency benefits both parties and builds trust |
-
 | 6 | Should unions have input on company strategic decisions? | Workers are stakeholders who deserve voice in company direction | Strategic decisions should remain management's responsibility |
 
 **Our team's selected topics:**
 
 | Order | Topic # | Topic |
-
 | ----- | ------- | ----- |
-
 | 1st   |         |       |
-
 | 2nd   |         |       |
-
 | 3rd   |         |       |
 
 ---
@@ -151,13 +121,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 1: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -165,13 +131,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 2: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -179,13 +141,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 3: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -193,13 +151,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### [2 minutes] Final Reflection
 
 | Question | Notes |
-
 |----------|-------|
-
 | Which topic was most debatable? Why? |  |
-
 | What did you learn from the opposing view? |  |
-
 | Any common ground found across topics? |  |
 
 ---
@@ -209,11 +163,8 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 Today's class includes the Negotiation Simulation (Day 1). Reflect on how today's debate connects to the simulation activity.
 
 | Question | Your Team's Thoughts |
-
 |----------|---------------------|
-
 | How does understanding both union and management perspectives help in negotiations? |  |
-
 | What strategies from the debate might be useful in the simulation? |  |
 
 ---
@@ -225,15 +176,10 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 **Our next meeting:**
 
 | Item | Details |
-
 |------|---------|
-
 | Date |  |
-
 | Time |  |
-
 | Meeting Location |  |
-
 | Notetaker |  |
 
 ---
@@ -247,17 +193,10 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
-
 |------|----------------------|
-
 | 1. |  |
-
 | 2. |  |
-
 | 3. |  |
-
 | 4. |  |
-
 | 5. |  |
-
 | 6. |  |

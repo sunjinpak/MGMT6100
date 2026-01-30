@@ -14,43 +14,28 @@ title: "Team-Meeting-6"
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
-
 |------|---------|
-
 | Meeting Date |  |
-
 | Meeting Time |  |
-
 | Meeting Location |  |
-
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
-
 |------|------|
-
 | Notetaker |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
-
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
-
 |------|-----------------------|
-
 |  |  |
-
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -89,13 +74,9 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 > **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
 
 | Role | Name(s) |
-
 |------|---------|
-
 | Employee Advocate(s) |  |
-
 | Employer Advocate(s) |  |
-
 | Notetaker |  |
 
 ---
@@ -105,31 +86,20 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 Choose **3 topics** from the list below to debate today.
 
 | # | Debate Topic | Employee Perspective | Employer Perspective |
-
 |---|--------------|---------------------|---------------------|
-
 | 1 | Should employers review job applicants' social media profiles? | Social media review violates privacy and may lead to discrimination | Social media helps assess cultural fit and reveals potential red flags |
-
 | 2 | Should job postings be required to include salary ranges? | Salary transparency helps candidates make informed decisions and reduces pay gaps | Salary disclosure limits negotiation flexibility and may not reflect total compensation |
-
 | 3 | Should companies pay bonuses for employee referrals? | Referral bonuses may create cliques and exclude diverse candidates | Referrals are cost-effective and often produce high-quality hires |
-
 | 4 | Should companies use AI to screen resumes? | AI screening may perpetuate bias and overlook qualified candidates | AI increases efficiency and provides consistent evaluation criteria |
-
 | 5 | Should employers require college degrees for all professional positions? | Degree requirements exclude talented candidates with alternative qualifications | Degrees demonstrate commitment, foundational knowledge, and learning ability |
-
 | 6 | Should companies actively recruit employees from competitors? | Poaching creates industry instability and raises ethical concerns | Recruiting from competitors brings valuable expertise and market knowledge |
 
 **Our team's selected topics:**
 
 | Order | Topic # | Topic |
-
 | ----- | ------- | ----- |
-
 | 1st   |         |       |
-
 | 2nd   |         |       |
-
 | 3rd   |         |       |
 
 ---
@@ -151,13 +121,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 1: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -165,13 +131,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 2: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -179,13 +141,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### Topic 3: _______________
 
 | Phase | Employee Side | Employer Side |
-
 |-------|---------------|---------------|
-
 | Opening (1 min each) |  |  |
-
 | Rebuttal (1 min each) |  |  |
-
 | Key Takeaway |  |  |
 
 ---
@@ -193,13 +151,9 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 ### [2 minutes] Final Reflection
 
 | Question | Notes |
-
 |----------|-------|
-
 | Which topic was most debatable? Why? |  |
-
 | What did you learn from the opposing view? |  |
-
 | Any common ground found across topics? |  |
 
 ---
@@ -211,15 +165,10 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 **Our next meeting:**
 
 | Item | Details |
-
 |------|---------|
-
 | Date |  |
-
 | Time |  |
-
 | Meeting Location |  |
-
 | Notetaker |  |
 
 ---
@@ -233,17 +182,10 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
-
 |------|----------------------|
-
 | 1. |  |
-
 | 2. |  |
-
 | 3. |  |
-
 | 4. |  |
-
 | 5. |  |
-
 | 6. |  |
