@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Team Meeting 8 Agenda
+title: "Team-Meeting-8"
 ---
 
-[← Back to Home](index.html)
+[← Back to Index](index.html)
 
 **[Download Word Document](Team-Meeting-8.docx)**
 
@@ -14,28 +14,43 @@ title: Team Meeting 8 Agenda
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
+
 |------|---------|
+
 | Meeting Date |  |
+
 | Meeting Time |  |
+
 | Meeting Location |  |
+
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
+
 |------|------|
+
 | Notetaker |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
+
 |------|-----------------------|
+
 |  |  |
+
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -47,6 +62,8 @@ title: Team Meeting 8 Agenda
 Engage in a structured debate on a Training Human Resources topic. You will argue from either the employee or employer perspective to develop critical thinking skills about workplace issues.
 
 ---
+
+> **Seating Arrangement:** The Notetaker sits in the center with the laptop, and all other team members sit around the Notetaker. Only the Notetaker may use a laptop during the debate. The Notetaker will verbally announce the debate topic and instructions.
 
 ## Instructions for Notetaker
 
@@ -63,72 +80,127 @@ The Notetaker is responsible for:
 
 ## Meeting Agenda
 
-### [2 minutes] Assign Roles for Today's Debate
+### [1 minute] Assign Roles for Today's Debate
 
 Divide your team into Employee Advocates and Employer Advocates. The Notetaker will facilitate and record the debate.
 
 **Tip:** If you were on the Employee side last week, switch to the Employer side this week.
 
+> **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
+
 | Role | Name(s) |
+
 |------|---------|
+
 | Employee Advocate(s) |  |
+
 | Employer Advocate(s) |  |
+
 | Notetaker |  |
 
 ---
 
-### Today's Debate Topic
+### [1 minute] Select Today's Debate Topics
 
-**"If an employer pays for an employee's professional development or education, should the employee be required to repay the cost if they leave the company within a certain period?"**
+Choose **3 topics** from the list below to debate today.
 
-- **Employee Advocates:** Argue that repayment requirements create unfair financial burden, limit career mobility, and may trap employees in unsuitable positions.
+| # | Debate Topic | Employee Perspective | Employer Perspective |
 
-- **Employer Advocates:** Argue that repayment agreements protect company investments, ensure commitment to the organization, and are fair since employees benefit from the training.
+|---|--------------|---------------------|---------------------|
 
----
+| 1 | Should employees repay training costs if they leave the company early? | Repayment requirements trap employees and limit career mobility | Repayment agreements protect company investments and ensure commitment |
 
-### [5 minutes] Phase 1: Opening Statements
+| 2 | Should training programs be mandatory or voluntary for employees? | Mandatory training takes time from core work and may not be relevant | Mandatory training ensures consistent skill levels across the organization |
 
-Each side presents their initial position and main arguments.
+| 3 | Should companies invest in training or hire experienced candidates? | Training shows investment in employees and builds loyalty | Hiring experienced candidates provides immediate productivity |
 
-| Side | Time | Key Points |
-|------|------|------------|
-| Employee Side | 2 min |  |
-| Employer Side | 2 min |  |
+| 4 | Should employees be compensated for training time outside work hours? | Unpaid training exploits employees and violates work-life balance | Training is an investment in employees that benefits their careers |
 
----
+| 5 | Should companies use online training or in-person training? | In-person training provides better engagement and networking | Online training is cost-effective, flexible, and scalable |
 
-### [10 minutes] Phase 2: Rebuttal Round
+| 6 | Should companies focus training on all employees or high performers only? | All employees deserve development opportunities equally | Focusing on high performers maximizes return on training investment |
 
-Respond to the opposing arguments. Ask questions to challenge the other side's position.
+**Our team's selected topics:**
 
-| Employee Side Rebuttal | Employer Side Rebuttal |
-|------------------------|------------------------|
-|  |  |
+| Order | Topic # | Topic |
 
----
+| ----- | ------- | ----- |
 
-### [8 minutes] Phase 3: Free Discussion
+| 1st   |         |       |
 
-Open debate between both sides. Explore common ground and potential compromises.
+| 2nd   |         |       |
 
-**Discussion Notes:**
-
-|  |
-|--|
-|  |
-|  |
-|  |
+| 3rd   |         |       |
 
 ---
 
-### [5 minutes] Phase 4: Closing & Reflection
+### [6 minutes] Individual Brainstorming
 
-| Activity | Notes |
+Before the debate begins, take out a piece of paper and brainstorm your arguments individually for 6 minutes.
+
+> **No smartphones or laptops allowed** during brainstorming (except for the Notetaker).
+
+---
+
+## Debate Rounds [18 minutes total]
+
+For each topic (6 min each), both sides present their arguments, rebut, and share key takeaways.
+
+---
+
+### Topic 1: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### Topic 2: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### Topic 3: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### [2 minutes] Final Reflection
+
+| Question | Notes |
+
 |----------|-------|
-| Employee side closing statement (1 min) |  |
-| Employer side closing statement (1 min) |  |
-| What did you learn from the opposing view? (3 min) |  |
+
+| Which topic was most debatable? Why? |  |
+
+| What did you learn from the opposing view? |  |
+
+| Any common ground found across topics? |  |
 
 ---
 
@@ -139,15 +211,20 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 **Our next meeting:**
 
 | Item | Details |
+
 |------|---------|
+
 | Date |  |
+
 | Time |  |
+
 | Meeting Location |  |
+
 | Notetaker |  |
 
 ---
 
-### [5 minutes] Self and Peer Review Evaluation Survey
+### [1 minute] Self and Peer Review Evaluation Survey
 
 Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 
@@ -156,10 +233,17 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
+
 |------|----------------------|
+
 | 1. |  |
+
 | 2. |  |
+
 | 3. |  |
+
 | 4. |  |
+
 | 5. |  |
+
 | 6. |  |

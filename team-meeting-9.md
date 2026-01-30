@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Team Meeting 9 Agenda
+title: "Team-Meeting-9"
 ---
 
-[← Back to Home](index.html)
+[← Back to Index](index.html)
 
 **[Download Word Document](Team-Meeting-9.docx)**
 
@@ -14,28 +14,43 @@ title: Team Meeting 9 Agenda
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
+
 |------|---------|
+
 | Meeting Date |  |
+
 | Meeting Time |  |
+
 | Meeting Location |  |
+
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
+
 |------|------|
+
 | Notetaker |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
+
 |------|-----------------------|
+
 |  |  |
+
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -47,6 +62,8 @@ title: Team Meeting 9 Agenda
 Engage in a structured debate on a Talent, Careers, and Development topic. You will argue from either the employee or employer perspective to develop critical thinking skills about workplace issues.
 
 ---
+
+> **Seating Arrangement:** The Notetaker sits in the center with the laptop, and all other team members sit around the Notetaker. Only the Notetaker may use a laptop during the debate. The Notetaker will verbally announce the debate topic and instructions.
 
 ## Instructions for Notetaker
 
@@ -63,72 +80,127 @@ The Notetaker is responsible for:
 
 ## Meeting Agenda
 
-### [2 minutes] Assign Roles for Today's Debate
+### [1 minute] Assign Roles for Today's Debate
 
 Divide your team into Employee Advocates and Employer Advocates. The Notetaker will facilitate and record the debate.
 
 **Tip:** If you were on the Employee side last week, switch to the Employer side this week.
 
+> **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
+
 | Role | Name(s) |
+
 |------|---------|
+
 | Employee Advocate(s) |  |
+
 | Employer Advocate(s) |  |
+
 | Notetaker |  |
 
 ---
 
-### Today's Debate Topic
+### [1 minute] Select Today's Debate Topics
 
-**"When filling management positions, should companies prioritize internal promotions or external hires?"**
+Choose **3 topics** from the list below to debate today.
 
-- **Employee Advocates:** Argue that internal promotions reward loyalty, motivate employees, and utilize institutional knowledge that external candidates lack.
+| # | Debate Topic | Employee Perspective | Employer Perspective |
 
-- **Employer Advocates:** Argue that external hires bring fresh perspectives, new skills, and may be necessary when internal candidates lack required qualifications.
+|---|--------------|---------------------|---------------------|
 
----
+| 1 | Should companies prioritize internal promotions or external hires for management? | Internal promotion rewards loyalty and utilizes institutional knowledge | External hires bring fresh perspectives and new skills |
 
-### [5 minutes] Phase 1: Opening Statements
+| 2 | Should employees have formal career development plans? | Formal plans show company commitment and provide clear growth paths | Formal plans may create unrealistic expectations and limit flexibility |
 
-Each side presents their initial position and main arguments.
+| 3 | Should companies offer paid sabbaticals to long-term employees? | Sabbaticals prevent burnout and reward loyalty | Sabbaticals disrupt operations and may not provide business value |
 
-| Side | Time | Key Points |
-|------|------|------------|
-| Employee Side | 2 min |  |
-| Employer Side | 2 min |  |
+| 4 | Should high performers receive significantly more development opportunities? | All employees deserve equal development opportunities | Investing more in high performers maximizes organizational returns |
 
----
+| 5 | Should companies support employees pursuing degrees unrelated to their job? | Education benefits employee growth regardless of direct job relevance | Company-funded education should align with business needs |
 
-### [10 minutes] Phase 2: Rebuttal Round
+| 6 | Should mentoring be mandatory for all managers? | Mandatory mentoring ensures knowledge transfer and employee development | Forced mentoring may lack authenticity and effectiveness |
 
-Respond to the opposing arguments. Ask questions to challenge the other side's position.
+**Our team's selected topics:**
 
-| Employee Side Rebuttal | Employer Side Rebuttal |
-|------------------------|------------------------|
-|  |  |
+| Order | Topic # | Topic |
 
----
+| ----- | ------- | ----- |
 
-### [8 minutes] Phase 3: Free Discussion
+| 1st   |         |       |
 
-Open debate between both sides. Explore common ground and potential compromises.
+| 2nd   |         |       |
 
-**Discussion Notes:**
-
-|  |
-|--|
-|  |
-|  |
-|  |
+| 3rd   |         |       |
 
 ---
 
-### [5 minutes] Phase 4: Closing & Reflection
+### [6 minutes] Individual Brainstorming
 
-| Activity | Notes |
+Before the debate begins, take out a piece of paper and brainstorm your arguments individually for 6 minutes.
+
+> **No smartphones or laptops allowed** during brainstorming (except for the Notetaker).
+
+---
+
+## Debate Rounds [18 minutes total]
+
+For each topic (6 min each), both sides present their arguments, rebut, and share key takeaways.
+
+---
+
+### Topic 1: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### Topic 2: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### Topic 3: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### [2 minutes] Final Reflection
+
+| Question | Notes |
+
 |----------|-------|
-| Employee side closing statement (1 min) |  |
-| Employer side closing statement (1 min) |  |
-| What did you learn from the opposing view? (3 min) |  |
+
+| Which topic was most debatable? Why? |  |
+
+| What did you learn from the opposing view? |  |
+
+| Any common ground found across topics? |  |
 
 ---
 
@@ -139,17 +211,22 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 **Our next meeting:**
 
 | Item | Details |
+
 |------|---------|
+
 | Date |  |
+
 | Time |  |
+
 | Meeting Location |  |
+
 | Notetaker |  |
 
 > **Reminder:** Spring Break is coming up. Make sure to note the correct date for the next team meeting.
 
 ---
 
-### [5 minutes] Self and Peer Review Evaluation Survey
+### [1 minute] Self and Peer Review Evaluation Survey
 
 Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 
@@ -158,10 +235,17 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
+
 |------|----------------------|
+
 | 1. |  |
+
 | 2. |  |
+
 | 3. |  |
+
 | 4. |  |
+
 | 5. |  |
+
 | 6. |  |

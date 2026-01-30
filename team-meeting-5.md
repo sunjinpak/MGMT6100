@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Team Meeting 5 Agenda
+title: "Team-Meeting-5"
 ---
 
-[← Back to Home](index.html)
+[← Back to Index](index.html)
 
 **[Download Word Document](Team-Meeting-5.docx)**
 
@@ -14,28 +14,43 @@ title: Team Meeting 5 Agenda
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
 | Item | Details |
+
 |------|---------|
+
 | Meeting Date |  |
+
 | Meeting Time |  |
+
 | Meeting Location |  |
+
 | Team Number |  |
 
 ### Present Students
 
 | Role | Name |
+
 |------|------|
+
 | Notetaker |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
+
 | Member |  |
 
 ### Absent Students
 
 | Name | Submitted Later (Y/N) |
+
 |------|-----------------------|
+
 |  |  |
+
 |  |  |
 
 > **Note:** If you were absent, you can still receive points by obtaining the meeting notes from your team, adding your own reflections, and submitting to Canvas by Sunday 11:59 PM.
@@ -47,6 +62,8 @@ title: Team Meeting 5 Agenda
 Engage in a structured debate on a Workforce, Jobs, and Job Analysis topic. You will argue from either the employee or employer perspective to develop critical thinking skills about workplace issues.
 
 ---
+
+> **Seating Arrangement:** The Notetaker sits in the center with the laptop, and all other team members sit around the Notetaker. Only the Notetaker may use a laptop during the debate. The Notetaker will verbally announce the debate topic and instructions.
 
 ## Instructions for Notetaker
 
@@ -63,72 +80,127 @@ The Notetaker is responsible for:
 
 ## Meeting Agenda
 
-### [2 minutes] Assign Roles for Today's Debate
+### [1 minute] Assign Roles for Today's Debate
 
 Divide your team into Employee Advocates and Employer Advocates. The Notetaker will facilitate and record the debate.
 
 **Tip:** If you were on the Employee side last week, switch to the Employer side this week.
 
+> **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
+
 | Role | Name(s) |
+
 |------|---------|
+
 | Employee Advocate(s) |  |
+
 | Employer Advocate(s) |  |
+
 | Notetaker |  |
 
 ---
 
-### Today's Debate Topic
+### [1 minute] Select Today's Debate Topics
 
-**"Should job descriptions be highly detailed and specific, or broad and flexible?"**
+Choose **3 topics** from the list below to debate today.
 
-- **Employee Advocates:** Argue that detailed job descriptions protect employees by clearly defining responsibilities, preventing scope creep, and ensuring fair workload distribution.
+| # | Debate Topic | Employee Perspective | Employer Perspective |
 
-- **Employer Advocates:** Argue that flexible job descriptions allow companies to adapt quickly, encourage employees to take initiative, and support organizational agility.
+|---|--------------|---------------------|---------------------|
 
----
+| 1 | Should job descriptions be highly detailed or broad and flexible? | Detailed descriptions protect employees from scope creep and ensure fair workload | Flexible descriptions allow adaptation and encourage employee initiative |
 
-### [5 minutes] Phase 1: Opening Statements
+| 2 | Should companies rely more on gig workers instead of full-time employees? | Gig work lacks job security, benefits, and career development opportunities | Gig workers provide flexibility, reduce costs, and allow scaling as needed |
 
-Each side presents their initial position and main arguments.
+| 3 | Should employees be required to work mandatory overtime during busy periods? | Mandatory overtime harms work-life balance and leads to burnout | Overtime is necessary to meet business demands and can benefit employees financially |
 
-| Side | Time | Key Points |
-|------|------|------------|
-| Employee Side | 2 min |  |
-| Employer Side | 2 min |  |
+| 4 | Should companies implement job rotation programs for all employees? | Job rotation provides skill development and prevents monotony | Job rotation disrupts productivity and may not suit all roles |
 
----
+| 5 | Should companies allow job sharing arrangements? | Job sharing supports work-life balance and retains valuable employees | Job sharing complicates coordination and may reduce accountability |
 
-### [10 minutes] Phase 2: Rebuttal Round
+| 6 | Should all listed job requirements be strictly enforced during hiring? | Strict requirements may exclude qualified candidates with transferable skills | Requirements ensure candidates can perform essential job functions |
 
-Respond to the opposing arguments. Ask questions to challenge the other side's position.
+**Our team's selected topics:**
 
-| Employee Side Rebuttal | Employer Side Rebuttal |
-|------------------------|------------------------|
-|  |  |
+| Order | Topic # | Topic |
 
----
+| ----- | ------- | ----- |
 
-### [8 minutes] Phase 3: Free Discussion
+| 1st   |         |       |
 
-Open debate between both sides. Explore common ground and potential compromises.
+| 2nd   |         |       |
 
-**Discussion Notes:**
-
-|  |
-|--|
-|  |
-|  |
-|  |
+| 3rd   |         |       |
 
 ---
 
-### [5 minutes] Phase 4: Closing & Reflection
+### [6 minutes] Individual Brainstorming
 
-| Activity | Notes |
+Before the debate begins, take out a piece of paper and brainstorm your arguments individually for 6 minutes.
+
+> **No smartphones or laptops allowed** during brainstorming (except for the Notetaker).
+
+---
+
+## Debate Rounds [18 minutes total]
+
+For each topic (6 min each), both sides present their arguments, rebut, and share key takeaways.
+
+---
+
+### Topic 1: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### Topic 2: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### Topic 3: _______________
+
+| Phase | Employee Side | Employer Side |
+
+|-------|---------------|---------------|
+
+| Opening (1 min each) |  |  |
+
+| Rebuttal (1 min each) |  |  |
+
+| Key Takeaway |  |  |
+
+---
+
+### [2 minutes] Final Reflection
+
+| Question | Notes |
+
 |----------|-------|
-| Employee side closing statement (1 min) |  |
-| Employer side closing statement (1 min) |  |
-| What did you learn from the opposing view? (3 min) |  |
+
+| Which topic was most debatable? Why? |  |
+
+| What did you learn from the opposing view? |  |
+
+| Any common ground found across topics? |  |
 
 ---
 
@@ -139,15 +211,20 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 **Our next meeting:**
 
 | Item | Details |
+
 |------|---------|
+
 | Date |  |
+
 | Time |  |
+
 | Meeting Location |  |
+
 | Notetaker |  |
 
 ---
 
-### [5 minutes] Self and Peer Review Evaluation Survey
+### [1 minute] Self and Peer Review Evaluation Survey
 
 Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 
@@ -156,10 +233,17 @@ Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
 
 | Name | Survey Completion Code |
+
 |------|----------------------|
+
 | 1. |  |
+
 | 2. |  |
+
 | 3. |  |
+
 | 4. |  |
+
 | 5. |  |
+
 | 6. |  |
