@@ -71,7 +71,7 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 
 **Tip:** If you were on the Employee side last week, switch to the Employer side this week.
 
-> **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
+> **Note:** If your team has **3 or more members** present, the Notetaker focuses only on facilitating and recording the debate. If only **2 members** are present, the Notetaker must also choose either the Employee or Employer side. In that case, write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
 
 | Role | Name(s) |
 |------|---------|
