@@ -71,7 +71,7 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 
 **Tip:** If you were on the Employee side last week, switch to the Employer side this week.
 
-> **Note:** If your team has **3 or more members** present, the Notetaker focuses only on facilitating and recording the debate. If only **2 members** are present, the Notetaker must also choose either the Employee or Employer side. In that case, write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
+> **Note:** The Notetaker must also choose either the Employee or Employer side. Write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
 
 | Role | Name(s) |
 |------|---------|
@@ -83,7 +83,7 @@ Divide your team into Employee Advocates and Employer Advocates. The Notetaker w
 
 ### [1 minute] Select Today's Debate Topics
 
-Choose **3 topics** from the list below to debate today.
+Choose **2 topics** from the list below to debate today.
 
 | # | Debate Topic | Employee Perspective | Employer Perspective |
 |---|--------------|---------------------|---------------------|
@@ -100,7 +100,6 @@ Choose **3 topics** from the list below to debate today.
 | ----- | ------- | ----- |
 | 1st   |         |       |
 | 2nd   |         |       |
-| 3rd   |         |       |
 
 ---
 
@@ -112,7 +111,7 @@ Before the debate begins, take out a piece of paper and brainstorm your argument
 
 ---
 
-## Debate Rounds [18 minutes total]
+## Debate Rounds [12 minutes total]
 
 For each topic (6 min each), both sides present their arguments, rebut, and share key takeaways.
 
@@ -138,17 +137,7 @@ For each topic (6 min each), both sides present their arguments, rebut, and shar
 
 ---
 
-### Topic 3: _______________
-
-| Phase | Employee Side | Employer Side |
-|-------|---------------|---------------|
-| Opening (1 min each) |  |  |
-| Rebuttal (1 min each) |  |  |
-| Key Takeaway |  |  |
-
----
-
-### [2 minutes] Final Reflection
+### [8 minutes] Final Reflection
 
 | Question | Notes |
 |----------|-------|
