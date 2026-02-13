@@ -44,7 +44,7 @@ title: "Team-Meeting-5"
 
 ## Purpose of This Week's Meeting
 
-Engage in a "Convince Your Partner" activity on Workforce, Jobs, and Job Analysis topics. You will be paired with a partner and take turns persuading each other from either the employee or employer perspective. Every person speaks, and roles swap each round.
+Engage in a "Convince Your Partner" activity on Job Analysis topics. You will be paired with a partner and take turns persuading each other from either the employee or employer perspective. Every person speaks, and roles swap each round.
 
 ---
 
@@ -85,12 +85,12 @@ Choose **2 topics** from the list below for today's activity.
 
 | # | Topic | Employee Perspective | Employer Perspective |
 |---|-------|---------------------|---------------------|
-| 1 | Should job descriptions be highly detailed or broad and flexible? | Detailed descriptions protect employees from scope creep and ensure fair workload | Flexible descriptions allow adaptation and encourage employee initiative |
-| 2 | Should companies rely more on gig workers instead of full-time employees? | Gig work lacks job security, benefits, and career development opportunities | Gig workers provide flexibility, reduce costs, and allow scaling as needed |
-| 3 | Should employees be required to work mandatory overtime during busy periods? | Mandatory overtime harms work-life balance and leads to burnout | Overtime is necessary to meet business demands and can benefit employees financially |
-| 4 | Should companies implement job rotation programs for all employees? | Job rotation provides skill development and prevents monotony | Job rotation disrupts productivity and may not suit all roles |
-| 5 | Should companies allow job sharing arrangements? | Job sharing supports work-life balance and retains valuable employees | Job sharing complicates coordination and may reduce accountability |
-| 6 | Should all listed job requirements be strictly enforced during hiring? | Strict requirements may exclude qualified candidates with transferable skills | Requirements ensure candidates can perform essential job functions |
+| 1 | Should companies use AI tools (e.g., ChatGPT) to write job descriptions and conduct job analysis? | AI-generated descriptions may miss nuances of actual work and reduce employee input in defining their roles | AI speeds up the process, reduces bias in language, and ensures consistency across positions |
+| 2 | Should job postings drop degree requirements and focus on skills instead? | Skills-based hiring opens doors for qualified candidates without degrees and reduces inequality | Degrees signal discipline and foundational knowledge; removing them makes screening harder |
+| 3 | Should salary ranges in job postings be narrow and specific or wide and flexible? | Narrow ranges set clear expectations, reduce pay gaps, and build trust with candidates | Wide ranges give companies room to adjust for experience, skills, and market conditions |
+| 4 | Should "culture fit" be used as a criterion in job analysis and hiring? | Culture fit is subjective and can lead to discrimination against diverse candidates | Hiring for culture fit improves teamwork, retention, and overall job satisfaction |
+| 5 | Should remote/hybrid work options be a permanent part of every job description? | Flexibility is essential for work-life balance, and excluding it limits the talent pool | Not all roles suit remote work; companies need discretion to adjust arrangements as needed |
+| 6 | Should job descriptions be highly detailed or broad and flexible? | Detailed descriptions protect employees from scope creep and ensure fair workload expectations | Flexible descriptions allow adaptation to changing needs and encourage employee initiative |
 
 **Our team's selected topics:**
 
