@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Team 2 - Ch 8 Feedback</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background: #0f0f0f;
+    color: #f0f0f0;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .slide-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .slide {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 6vh 8vw;
+    opacity: 0;
+    transform: translateX(60px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    pointer-events: none;
+  }
+
+  .slide.active {
+    opacity: 1;
+    transform: translateX(0);
+    pointer-events: auto;
+  }
+
+  .slide.exit-left {
+    opacity: 0;
+    transform: translateX(-60px);
+  }
+
+  /* Slide backgrounds */
+  .slide-1 { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); }
+  .slide-2 { background: linear-gradient(135deg, #1a1a1a 0%, #2d1b3d 50%, #1a1a2e 100%); }
+  .slide-3 { background: linear-gradient(135deg, #0a1628 0%, #1a2a1a 50%, #0f2027 100%); }
+
+  .slide-number {
+    position: absolute;
+    top: 3vh;
+    right: 4vw;
+    font-size: 1rem;
+    color: rgba(255,255,255,0.3);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+  }
+
+  h2 {
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    font-weight: 900;
+    margin-bottom: 5vh;
+    line-height: 1.2;
+  }
+
+  .slide-1 h2 { color: #64b5f6; }
+  .slide-2 h2 { color: #ce93d8; }
+  .slide-3 h2 { color: #81c784; }
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2.2vh;
+  }
+
+  li {
+    font-size: clamp(1.1rem, 2vw, 1.6rem);
+    line-height: 1.5;
+    padding-left: 2rem;
+    position: relative;
+    color: rgba(240,240,240,0.9);
+  }
+
+  li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.6em;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .slide-1 li::before { background: #64b5f6; }
+  .slide-2 li::before { background: #ce93d8; }
+  .slide-3 li::before { background: #81c784; }
+
+  li.sub {
+    padding-left: 4rem;
+    font-size: clamp(1rem, 1.7vw, 1.35rem);
+    color: rgba(240,240,240,0.7);
+  }
+
+  li.sub::before {
+    left: 2rem;
+    width: 6px;
+    height: 6px;
+    opacity: 0.6;
+  }
+
+  .takeaway {
+    margin-top: 4vh;
+    padding: 2.5vh 2vw;
+    border-left: 4px solid;
+    font-size: clamp(1.2rem, 2.2vw, 1.7rem);
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+
+  .slide-1 .takeaway { border-color: #64b5f6; color: #64b5f6; }
+  .slide-2 .takeaway { border-color: #ce93d8; color: #ce93d8; }
+  .slide-3 .takeaway { border-color: #81c784; color: #81c784; }
+
+  /* Navigation */
+  .nav {
+    position: fixed;
+    bottom: 3vh;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    z-index: 100;
+  }
+
+  .nav-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.2);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: none;
+  }
+
+  .nav-dot.active {
+    background: #fff;
+    transform: scale(1.3);
+  }
+
+  .nav-arrow {
+    background: none;
+    border: 2px solid rgba(255,255,255,0.2);
+    color: rgba(255,255,255,0.5);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .nav-arrow:hover {
+    border-color: rgba(255,255,255,0.6);
+    color: #fff;
+  }
+
+  /* Keyboard hint */
+  .hint {
+    position: fixed;
+    bottom: 1.5vh;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.75rem;
+    color: rgba(255,255,255,0.15);
+    letter-spacing: 0.1em;
+  }
+</style>
+</head>
+<body>
+
+<div class="slide-container">
+
+  <!-- Slide 1 -->
+  <div class="slide slide-1 active" data-index="0">
+    <span class="slide-number">1 / 3</span>
+    <h2>Network Through Stories, Not Names</h2>
+    <ul>
+      <li>This team nailed their introductions</li>
+      <li>Without even trying, I now remember:</li>
+      <li class="sub">Angel trains jiu-jitsu — with his wife</li>
+      <li class="sub">Bhavika is a pharmacist</li>
+      <li class="sub">Madison won a competition and is heading into data analytics</li>
+      <li>You don't make people remember your name — you give them a story</li>
+      <li>When they recall a unique character trait, your name comes with it</li>
+    </ul>
+    <div class="takeaway">That is how you network.</div>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="slide slide-2" data-index="1">
+    <span class="slide-number">2 / 3</span>
+    <h2>Gamification — Not Everyone Is Wired for It</h2>
+    <ul>
+      <li>Gamification sounds great in theory, but people respond very differently</li>
+      <li>Weekly sales leaderboard? Some reps thrive — others find it stressful</li>
+      <li>Team-based training simulations? Fun for some — a chore for others</li>
+      <li>If someone doesn't find it engaging, it's not a game — it's just extra work</li>
+    </ul>
+    <div class="takeaway">Personality matters — one size does not fit all.</div>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="slide slide-3" data-index="2">
+    <span class="slide-number">3 / 3</span>
+    <h2>What Real Gamification Looks Like</h2>
+    <ul>
+      <li>Pokémon Go: players think they're just catching Pokémon</li>
+      <li>But Niantic collects their location data, photos, and videos — all voluntarily — to train AI models</li>
+      <li>Players never realize they are doing work</li>
+    </ul>
+    <div class="takeaway">True gamification means people never notice they are being trained.</div>
+  </div>
+
+</div>
+
+<!-- Navigation -->
+<div class="nav">
+  <button class="nav-arrow" onclick="go(-1)">&#8592;</button>
+  <button class="nav-dot active" onclick="goTo(0)"></button>
+  <button class="nav-dot" onclick="goTo(1)"></button>
+  <button class="nav-dot" onclick="goTo(2)"></button>
+  <button class="nav-arrow" onclick="go(1)">&#8594;</button>
+</div>
+<div class="hint">← → or click to navigate</div>
+
+<script>
+  let current = 0;
+  const slides = document.querySelectorAll('.slide');
+  const dots = document.querySelectorAll('.nav-dot');
+  const total = slides.length;
+
+  function goTo(n) {
+    if (n < 0 || n >= total || n === current) return;
+    slides[current].classList.remove('active');
+    slides[current].classList.add('exit-left');
+    setTimeout(() => slides[current === n ? current : (current > n ? current : current)].classList.remove('exit-left'), 500);
+
+    const prev = current;
+    current = n;
+
+    // Reset previous slide after transition
+    setTimeout(() => {
+      slides[prev].classList.remove('exit-left');
+    }, 500);
+
+    slides[current].classList.add('active');
+    dots.forEach((d, i) => d.classList.toggle('active', i === current));
+  }
+
+  function go(dir) { goTo(current + dir); }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); go(1); }
+    if (e.key === 'ArrowLeft') { e.preventDefault(); go(-1); }
+  });
+
+  // Touch/swipe support
+  let touchStartX = 0;
+  document.addEventListener('touchstart', (e) => { touchStartX = e.changedTouches[0].screenX; });
+  document.addEventListener('touchend', (e) => {
+    const diff = e.changedTouches[0].screenX - touchStartX;
+    if (Math.abs(diff) > 50) go(diff < 0 ? 1 : -1);
+  });
+</script>
+
+</body>
+</html>
