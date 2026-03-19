@@ -44,7 +44,7 @@ title: "Team-Meeting-8"
 
 ## Purpose of This Week's Meeting
 
-Engage in a "Convince Your Partner" activity on Training Human Resources topics. You will be paired with a partner and take turns persuading each other from either the employee or employer perspective. Every person speaks, and roles swap each round.
+Engage in a "Convince Your Partner" activity on Training Human Resources topics. You will be paired with a partner and take turns persuading each other from either the Agree or Disagree perspective. Every person speaks, and roles swap each round.
 
 ---
 
@@ -67,11 +67,11 @@ The Notetaker is responsible for:
 
 ### [1 minute] Pair Up for Today's Activity
 
-Pair up with a partner. The Notetaker will assign each pair a starting role. In each pair, one person starts as the **Employee Advocate** and the other as the **Employer Advocate**. Roles will swap after each round.
+Pair up with a partner. The Notetaker will assign each pair a starting role. In each pair, one person starts as the **Agree Advocate** and the other as the **Disagree Advocate**. Roles will swap after each round.
 
 **Tip:** If you had an odd number, the Notetaker pairs with the remaining member.
 
-| Pair | Partner A (starts as Employee) | Partner B (starts as Employer) |
+| Pair | Partner A (starts as Agree) | Partner B (starts as Disagree) |
 |------|-------------------------------|-------------------------------|
 | Pair 1 |  |  |
 | Pair 2 |  |  |
@@ -83,14 +83,14 @@ Pair up with a partner. The Notetaker will assign each pair a starting role. In 
 
 Choose **2 topics** from the list below for today's activity.
 
-| # | Topic | Employee Perspective | Employer Perspective |
-|---|-------|---------------------|---------------------|
-| 1 | Should employees repay training costs if they leave the company early? | Repayment requirements trap employees and limit career mobility | Repayment agreements protect company investments and ensure commitment |
-| 2 | Should training programs be mandatory or voluntary for employees? | Mandatory training takes time from core work and may not be relevant | Mandatory training ensures consistent skill levels across the organization |
-| 3 | Should companies invest in training or hire experienced candidates? | Training shows investment in employees and builds loyalty | Hiring experienced candidates provides immediate productivity |
-| 4 | Should employees be compensated for training time outside work hours? | Unpaid training exploits employees and violates work-life balance | Training is an investment in employees that benefits their careers |
-| 5 | Should companies use online training or in-person training? | In-person training provides better engagement and networking | Online training is cost-effective, flexible, and scalable |
-| 6 | Should companies focus training on all employees or high performers only? | All employees deserve development opportunities equally | Focusing on high performers maximizes return on training investment |
+| # | Topic | Agree | Disagree |
+|---|-------|-------|----------|
+| 1 | Should companies be allowed to analyze employee emails without individual consent if it improves training programs? | Organizations have a legitimate need to use all available data to improve workforce development | Employees have a right to privacy, and email analysis without consent crosses an ethical line |
+| 2 | Are AI-generated job descriptions more accurate than those written by managers? | AI can identify patterns across thousands of roles and remove individual bias from job descriptions | Managers understand the nuances, culture, and unwritten aspects of roles that AI cannot capture |
+| 3 | Is heavy reliance on a few key employees a sign of leadership failure? | Good leaders build systems and develop talent so no single person is indispensable | Some roles naturally require specialized expertise, and retaining key talent is a leadership strength |
+| 4 | Should companies implement real-time email monitoring to identify training needs as they emerge? | Real-time insights allow organizations to address skill gaps immediately rather than waiting for annual reviews | Constant monitoring creates a surveillance culture that destroys trust and psychological safety |
+| 5 | Can AI-powered training programs fully replace traditional two-week onboarding programs? | AI can personalize learning paths, adapt to individual pace, and deliver training more efficiently than standardized programs | Human connection, mentorship, and cultural immersion during onboarding cannot be replicated by AI |
+| 6 | If workplace success depends more on relationships than skills, does formal onboarding training even matter? | What really determines success is who you know and how well you navigate office politics, not what you learned in training | Structured onboarding provides the foundational knowledge and confidence new employees need to build those relationships effectively |
 
 **Our team's selected topics:**
 
@@ -122,12 +122,12 @@ Roles swap **between** rounds, not within a round.
 
 ### Round 1: _______________
 
-Partner A = Employee Advocate, Partner B = Employer Advocate
+Partner A = Agree Advocate, Partner B = Disagree Advocate
 
 | Phase | Details |
 |-------|---------|
-| Partner A persuades B (2 min) | Employee side argues to Employer |
-| Partner B persuades A (2 min) | Employer side argues to Employee |
+| Partner A persuades B (2 min) | Agree side argues to Disagree |
+| Partner B persuades A (2 min) | Disagree side argues to Agree |
 
 **Debrief (3 min):** Each pair shares with the group.
 
@@ -141,12 +141,12 @@ Partner A = Employee Advocate, Partner B = Employer Advocate
 
 ### Round 2: _______________
 
-**Roles swap:** Partner A = Employer Advocate, Partner B = Employee Advocate
+**Roles swap:** Partner A = Disagree Advocate, Partner B = Agree Advocate
 
 | Phase | Details |
 |-------|---------|
-| Partner A persuades B (2 min) | Employer side argues to Employee |
-| Partner B persuades A (2 min) | Employee side argues to Employer |
+| Partner A persuades B (2 min) | Disagree side argues to Agree |
+| Partner B persuades A (2 min) | Agree side argues to Disagree |
 
 **Debrief (3 min):** Each pair shares with the group.
 
