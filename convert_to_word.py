@@ -390,6 +390,7 @@ def main():
         ('team-meeting-9.md', 'Team-Meeting-9.docx'),
         ('team-meeting-10.md', 'Team-Meeting-10.docx'),
         ('team-meeting-11.md', 'Team-Meeting-11.docx'),
+        ('ai-training-activity.md', 'AI-Training-Activity.docx'),
     ]
 
     print("Step 1: Fixing markdown table formatting...")

@@ -40,6 +40,14 @@ title: MGMT 6100 - Human Resources Management
 
 ---
 
+## Activities
+
+| Activity | Description |
+|----------|-------------|
+| [AI Training from Email Patterns](ai-training-activity.html) | Ch 8 - Use AI to analyze employee emails, build job descriptions, and create onboarding training plans |
+
+---
+
 ## External Links
 
 - [Peer Review Evaluation Survey](https://sunjinpak.github.io/MGMT6100-peer-review/) - Complete after each team meeting
