@@ -53,6 +53,12 @@ Now Jordan is gone, and the organization is scrambling.
 
 ## Jordan Lee's Email Archive (30 Emails)
 
+<div style="text-align: center; margin: 1em 0;">
+<button id="copy-emails-btn" onclick="copyAllEmails()" style="padding: 12px 24px; font-size: 16px; cursor: pointer; background-color: #2563eb; color: white; border: none; border-radius: 6px; font-weight: bold;">Copy All 30 Emails to Clipboard</button>
+</div>
+
+<div id="email-archive" markdown="1">
+
 > **Contact Directory**
 > Internal: Sarah Chen (Payroll), Tom Briggs (Facilities), Rachel Kim (Sales Mgr), Derek Huang (IT), Marcus Webb (VP Operations), Karen Walsh (HR Director), Angela Rivera (Engineering Mgr), Ashley Park (Austin Office Mgr)
 > Employees: Lisa Tran, Sandra Morales, Carlos Medina, Priya Nair, Lin Zhang, David Okafor, Elena Martinez
@@ -455,6 +461,8 @@ Given your conversation last month about wanting to reduce bias in your hiring p
 
 Your contract renewal is coming up in March. I'll send the renewal proposal next week with pricing for the add-on included as an option.
 
+</div>
+
 ## Activity Instructions
 
 ### Part 1: Email Analysis (15 minutes)
@@ -566,3 +574,19 @@ Your contract renewal is coming up in March. I'll send the renewal proposal next
 | **Critical Thinking** | Thoughtful critique of AI output. Identifies subtle gaps, biases, or missing context. Strong discussion participation | Some critique of AI output. Participates in discussion | Minimal critique. Accepts AI output without question | No evidence of critical evaluation |
 
 **Total: 60 points**
+
+<script>
+function copyAllEmails() {
+  var archive = document.getElementById('email-archive');
+  var text = archive.innerText;
+  navigator.clipboard.writeText(text).then(function() {
+    var btn = document.getElementById('copy-emails-btn');
+    btn.textContent = 'Copied!';
+    btn.style.backgroundColor = '#16a34a';
+    setTimeout(function() {
+      btn.textContent = 'Copy All 30 Emails to Clipboard';
+      btn.style.backgroundColor = '#2563eb';
+    }, 2000);
+  });
+}
+</script>
