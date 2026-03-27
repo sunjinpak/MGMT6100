@@ -9,7 +9,7 @@ title: "Team-Meeting-9"
 
 # Team Meeting Agenda - Ninth Team Meeting
 
-## Chapter 9 Convince Your Partner: Talent, Careers, and Development
+## Training Effectiveness Debate
 
 **Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
 
@@ -44,18 +44,18 @@ title: "Team-Meeting-9"
 
 ## Purpose of This Week's Meeting
 
-Engage in a "Convince Your Partner" activity on Talent, Careers, and Development topics. You will be paired with a partner and take turns persuading each other from either the employee or employer perspective. Every person speaks, and roles swap each round.
+Engage in a structured debate on Training Effectiveness topics based on a recent meta-analysis (Kim, Chang, & Bell, 2025). You will argue from either the employee or employer perspective to develop critical thinking skills about workplace training issues.
 
 ---
 
-> **Seating Arrangement:** The Notetaker sits in the center with the laptop, and all other team members sit around the Notetaker. Only the Notetaker may use a laptop during the activity. The Notetaker will verbally announce the topic and instructions.
+> **Seating Arrangement:** The Notetaker sits in the center with the laptop, and all other team members sit around the Notetaker. Only the Notetaker may use a laptop during the debate. The Notetaker will verbally announce the debate topic and instructions.
 
 ## Instructions for Notetaker
 
 The Notetaker is responsible for:
-1. Facilitating the activity and ensuring all team members contribute
+1. Facilitating the discussion and ensuring all team members contribute
 2. Managing time during the meeting
-3. Recording key persuasion points from each pair
+3. Recording key points from the discussion
 4. Collecting all survey completion codes from team members
 5. Downloading the document as a Word file and submitting to Canvas
 
@@ -65,106 +65,96 @@ The Notetaker is responsible for:
 
 ## Meeting Agenda
 
-### [1 minute] Pair Up for Today's Activity
+### [1 minute] Assign Roles for Today's Debate
 
-Pair up with a partner. The Notetaker will assign each pair a starting role. In each pair, one person starts as the **Employee Advocate** and the other as the **Employer Advocate**. Roles will swap after each round.
+Divide your team into Employee Advocates and Employer Advocates. The Notetaker will facilitate and record the debate.
 
-**Tip:** If you had an odd number, the Notetaker pairs with the remaining member.
+**Tip:** If you were on the Employee side last week, switch to the Employer side this week.
 
-| Pair | Partner A (starts as Employee) | Partner B (starts as Employer) |
-|------|-------------------------------|-------------------------------|
-| Pair 1 |  |  |
-| Pair 2 |  |  |
-| Pair 3 |  |  |
+> **Note:** If your team has **3 or more members** present, the Notetaker focuses only on facilitating and recording the debate. If only **2 members** are present, the Notetaker must also choose either the Employee or Employer side. In that case, write the Notetaker's name in both the Notetaker row AND their chosen advocate row.
+
+| Role | Name(s) |
+|------|---------|
+| Employee Advocate(s) |  |
+| Employer Advocate(s) |  |
+| Notetaker |  |
 
 ---
 
-### [1 minute] Select Today's Topics
+### [1 minute] Select Today's Debate Topics
 
-Choose **2 topics** from the list below for today's activity.
+Choose **3 topics** from the list below to debate today.
 
-| # | Topic | Employee Perspective | Employer Perspective |
-|---|-------|---------------------|---------------------|
-| 1 | Should companies prioritize internal promotions or external hires for management? | Internal promotion rewards loyalty and utilizes institutional knowledge | External hires bring fresh perspectives and new skills |
-| 2 | Should employees have formal career development plans? | Formal plans show company commitment and provide clear growth paths | Formal plans may create unrealistic expectations and limit flexibility |
-| 3 | Should companies offer paid sabbaticals to long-term employees? | Sabbaticals prevent burnout and reward loyalty | Sabbaticals disrupt operations and may not provide business value |
-| 4 | Should high performers receive significantly more development opportunities? | All employees deserve equal development opportunities | Investing more in high performers maximizes organizational returns |
-| 5 | Should companies support employees pursuing degrees unrelated to their job? | Education benefits employee growth regardless of direct job relevance | Company-funded education should align with business needs |
-| 6 | Should mentoring be mandatory for all managers? | Mandatory mentoring ensures knowledge transfer and employee development | Forced mentoring may lack authenticity and effectiveness |
+| # | Debate Topic | Employee Perspective | Employer Perspective |
+|---|--------------|---------------------|---------------------|
+| 1 | Should companies measure training success by employee experience (relevance, quality) rather than exposure metrics (hours, completion rates)? | Experience measures capture what truly matters - whether training actually helps me do my job better | Exposure metrics are objective, trackable, and necessary for accountability and compliance |
+| 2 | Should companies invest more in generic transferable skills (leadership, communication) or firm-specific skills (internal systems, company procedures)? | Generic skills increase my career growth and make me adaptable across roles | Firm-specific skills create competitive advantage that competitors can't replicate |
+| 3 | Should companies raise employee compensation after investing in significant training? | Training increases my market value - if you don't pay me more, someone else will | Training itself is already a valuable benefit; automatic raises aren't financially sustainable |
+| 4 | Should companies continue investing in training even when it doesn't improve employee retention? | Training boosts my motivation and performance regardless of whether I stay or leave | If trained employees leave, the company loses its investment with no return |
+| 5 | Should management actively champion and participate in training programs, or let employees drive their own development? | When leaders champion training, it signals the company truly values my growth | Self-directed learning fosters ownership; forced top-down programs feel inauthentic |
+| 6 | Should younger companies prioritize training investment over other immediate business needs, knowing results take years? | Early training builds the foundation for long-term success; waiting means falling behind | Limited resources should go to survival first; training can wait until the company stabilizes |
 
 **Our team's selected topics:**
 
 | Order | Topic # | Topic |
-|-------|---------|-------|
-| Round 1 |  |  |
-| Round 2 |  |  |
+| ----- | ------- | ----- |
+| 1st   |         |       |
+| 2nd   |         |       |
+| 3rd   |         |       |
 
 ---
 
 ### [6 minutes] Individual Brainstorming
 
-Take out a piece of paper and brainstorm your arguments individually for 6 minutes. Think about arguments for **both** sides, since you will argue from each perspective.
+Before the debate begins, take out a piece of paper and brainstorm your arguments individually for 6 minutes.
 
 > **No smartphones or laptops allowed** during brainstorming (except for the Notetaker).
 
 ---
 
-## Convince Your Partner Rounds [14 minutes total]
+## Debate Rounds [18 minutes total]
 
-Each round follows this structure (7 min per round):
-1. **Partner A persuades** Partner B (2 min)
-2. **Partner B persuades** Partner A (2 min)
-3. **Debrief** as a pair and share with the group (3 min)
-
-Roles swap **between** rounds, not within a round.
+For each topic (6 min each), both sides present their arguments, rebut, and share key takeaways.
 
 ---
 
-### Round 1: _______________
+### Topic 1: _______________
 
-Partner A = Employee Advocate, Partner B = Employer Advocate
-
-| Phase | Details |
-|-------|---------|
-| Partner A persuades B (2 min) | Employee side argues to Employer |
-| Partner B persuades A (2 min) | Employer side argues to Employee |
-
-**Debrief (3 min):** Each pair shares with the group.
-
-| Pair | What was the most convincing argument? |
-|------|---------------------------------------|
-| Pair 1 |  |
-| Pair 2 |  |
-| Pair 3 |  |
+| Phase | Employee Side | Employer Side |
+|-------|---------------|---------------|
+| Opening (1 min each) |  |  |
+| Rebuttal (1 min each) |  |  |
+| Key Takeaway |  |  |
 
 ---
 
-### Round 2: _______________
+### Topic 2: _______________
 
-**Roles swap:** Partner A = Employer Advocate, Partner B = Employee Advocate
-
-| Phase | Details |
-|-------|---------|
-| Partner A persuades B (2 min) | Employer side argues to Employee |
-| Partner B persuades A (2 min) | Employee side argues to Employer |
-
-**Debrief (3 min):** Each pair shares with the group.
-
-| Pair | What was the most convincing argument? |
-|------|---------------------------------------|
-| Pair 1 |  |
-| Pair 2 |  |
-| Pair 3 |  |
+| Phase | Employee Side | Employer Side |
+|-------|---------------|---------------|
+| Opening (1 min each) |  |  |
+| Rebuttal (1 min each) |  |  |
+| Key Takeaway |  |  |
 
 ---
 
-### [6 minutes] Final Reflection
+### Topic 3: _______________
+
+| Phase | Employee Side | Employer Side |
+|-------|---------------|---------------|
+| Opening (1 min each) |  |  |
+| Rebuttal (1 min each) |  |  |
+| Key Takeaway |  |  |
+
+---
+
+### [2 minutes] Final Reflection
 
 | Question | Notes |
 |----------|-------|
-| Which topic was harder to argue? Why? |  |
-| Did your opinion change after hearing the other side? |  |
-| What was the single most persuasive point you heard today? |  |
+| Which topic was most debatable? Why? |  |
+| What did you learn from the opposing view? |  |
+| Any common ground found across topics? |  |
 
 ---
 
@@ -180,6 +170,8 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 | Time |  |
 | Meeting Location |  |
 | Notetaker |  |
+
+> **Reminder:** Spring Break is coming up. Make sure to note the correct date for the next team meeting.
 
 ---
 
