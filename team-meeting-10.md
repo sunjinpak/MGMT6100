@@ -7,28 +7,35 @@ title: "Team-Meeting-10"
 
 **[Download Word Document](Team-Meeting-10.docx)**
 
-# Team Meeting Agenda - Tenth Team Meeting
+# Team Meeting Agenda - Negotiation Simulation Presentation Prep
 
-## Chapter 15 Convince Your Partner: Union-Management Relations
+## Joint Pair Presentation Preparation (UFW vs. Growers Negotiation)
 
-**Important:** Only the Notetaker uses a laptop to type during the meeting. All other team members should verbally share their thoughts with the Notetaker, who will record them.
+**Important:** The Union team and the Management team meet **separately today** (not together). Each team adds its pages to the **shared slide deck** that is linked in the syllabus under the 4/23 row (Company A or Company B, Management v.s. Union [Slide]). Both teams work on the same deck but on different slides.
+
+**Which team is this?**
+
+| | |
+|---|---|
+| Our Team (Union or Management) |  |
+| Our Team Number |  |
+| Our Negotiation Counterpart Team Number |  |
 
 | Item | Details |
 |------|---------|
 | Meeting Date |  |
 | Meeting Time |  |
 | Meeting Location |  |
-| Team Number |  |
 
 ### Present Students
 
 | Role | Name |
 |------|------|
-| Notetaker |  |
-| Member |  |
-| Member |  |
-| Member |  |
-| Member |  |
+| Lead Negotiator |  |
+| Vice Negotiator |  |
+| Strategy Coordinator |  |
+| Minutes Taker |  |
+| Contract Writer |  |
 | Member |  |
 
 ### Absent Students
@@ -42,155 +49,143 @@ title: "Team-Meeting-10"
 
 ---
 
-## Purpose of This Week's Meeting
+## Purpose of This Meeting
 
-Engage in a "Convince Your Partner" activity on Union-Management Relations topics. This is especially relevant as we begin the Negotiation Simulation activity today. Every person speaks, and roles swap each round.
+Prepare your team's portion of the **25-minute joint presentation** with your negotiation counterpart. Next class, each pair (Union + Management) presents their tentative agreement together, and classmates will vote for the **Best Pair**.
+
+**Presentation structure (25 min total per pair) - presented in this order:**
+1. Part 1 - Agreement Overview: **5 minutes** (joint, all four presenters)
+2. Part 2 - Union Perspective: **10 minutes** (Union Lead + Vice) ← Union presents first
+3. Part 3 - Management Perspective: **10 minutes** (Management Lead + Vice) ← Management presents second
+
+**Presenters (4 total per pair):** Union Lead + Vice Negotiator, Management Lead + Vice Negotiator.
 
 ---
-
-> **Seating Arrangement:** The Notetaker sits in the center with the laptop, and all other team members sit around the Notetaker. Only the Notetaker may use a laptop during the activity. The Notetaker will verbally announce the topic and instructions.
 
 ## Instructions for Notetaker
 
 The Notetaker is responsible for:
-1. Facilitating the activity and ensuring all team members contribute
+1. Facilitating the discussion and ensuring all team members contribute
 2. Managing time during the meeting
-3. Recording key persuasion points from each pair
+3. Recording key decisions and assignments in this agenda
 4. Collecting all survey completion codes from team members
 5. Downloading the document as a Word file and submitting to Canvas
 
-**Before the meeting:** Open today's team meeting agenda and make a copy for your team.
+**Before the meeting:** Bring (1) the signed tentative agreement from last week and (2) the meeting minutes from the Day 2 negotiation session.
+
+| Role | Name |
+|------|------|
+| Today's Notetaker |  |
 
 ---
 
-## Meeting Agenda
+## Meeting Agenda (30 minutes total)
 
-### [1 minute] Pair Up for Today's Activity
+### [3 minutes] Review the Tentative Agreement
 
-Pair up with a partner. The Notetaker will assign each pair a starting role. In each pair, one person starts as the **Employee Advocate** and the other as the **Employer Advocate**. Roles will swap after each round.
+Pull up the Collective Bargaining Agreement your pair signed last week. As a team, confirm the agreed-upon terms on all six issues.
 
-**Tip:** If you had an odd number, the Notetaker pairs with the remaining member.
+| Issue | Agreed Terms (Summary) |
+|-------|------------------------|
+| 1. Wages |  |
+| 2. Housing |  |
+| 3. Pesticide Safety |  |
+| 4. Union Recognition |  |
+| 5. Contract Duration |  |
+| 6. Grievance Procedure |  |
 
-| Pair | Partner A (starts as Employee) | Partner B (starts as Employer) |
-|------|-------------------------------|-------------------------------|
-| Pair 1 |  |  |
-| Pair 2 |  |  |
-| Pair 3 |  |  |
-
----
-
-### [1 minute] Select Today's Topics
-
-Choose **2 topics** from the list below for today's activity.
-
-| # | Topic | Employee Perspective | Employer Perspective |
-|---|-------|---------------------|---------------------|
-| 1 | Are labor unions still necessary in today's workplace? | Unions protect workers' rights, ensure fair wages, and address safety | Modern labor laws protect workers; unions may create adversarial relationships |
-| 2 | Should companies be allowed to discourage union formation? | Employees have the right to organize without employer interference | Employers have free speech rights to share views on unionization |
-| 3 | Should essential workers (healthcare, utilities) be allowed to strike? | All workers deserve the right to strike as a bargaining tool | Strikes by essential workers endanger public health and safety |
-| 4 | Should union membership be required in unionized workplaces? | Union dues ensure fair representation for all benefiting workers | Forced membership violates individual freedom of association |
-| 5 | Should management be allowed to attend union meetings? | Union meetings should be private spaces for workers | Transparency benefits both parties and builds trust |
-| 6 | Should unions have input on company strategic decisions? | Workers are stakeholders who deserve voice in company direction | Strategic decisions should remain management's responsibility |
-
-**Our team's selected topics:**
-
-| Order | Topic # | Topic |
-|-------|---------|-------|
-| Round 1 |  |  |
-| Round 2 |  |  |
+> **Reference:** [General Information](https://docs.google.com/document/d/1D6HJbPKBA21TDT9XoER6RR0HtlipWp-q/edit) | [Day 3 Instructions](https://docs.google.com/document/d/1G5FmtImkh4bxqe6UUqTjC2UI3wF7kZTk/edit#bookmark=id.yv4tolc9h13k)
 
 ---
 
-### [6 minutes] Individual Brainstorming
+### [2 minutes] Open the Shared Slide Deck and Confirm Presenters
 
-Take out a piece of paper and brainstorm your arguments individually for 6 minutes. Think about arguments for **both** sides, since you will argue from each perspective.
+Open the shared slide deck linked in the syllabus (your pair = Company A or Company B). Both teams use the **same deck** - the Union team and Management team each own different slides within it.
 
-> **No smartphones or laptops allowed** during brainstorming (except for the Notetaker).
+| Item | Details |
+|------|---------|
+| Our Pair (Company A / Company B) |  |
+| Shared Slide Deck URL (from syllabus) |  |
 
----
+Confirm the Lead Negotiator and Vice Negotiator are present and ready to present next class.
 
-## Convince Your Partner Rounds [14 minutes total]
-
-Each round follows this structure (7 min per round):
-1. **Partner A persuades** Partner B (2 min)
-2. **Partner B persuades** Partner A (2 min)
-3. **Debrief** as a pair and share with the group (3 min)
-
-Roles swap **between** rounds, not within a round.
-
----
-
-### Round 1: _______________
-
-Partner A = Employee Advocate, Partner B = Employer Advocate
-
-| Phase | Details |
-|-------|---------|
-| Partner A persuades B (2 min) | Employee side argues to Employer |
-| Partner B persuades A (2 min) | Employer side argues to Employee |
-
-**Debrief (3 min):** Each pair shares with the group.
-
-| Pair | What was the most convincing argument? |
-|------|---------------------------------------|
-| Pair 1 |  |
-| Pair 2 |  |
-| Pair 3 |  |
+| Role                         | Name |
+| ---------------------------- | ---- |
+| Presenter - Lead Negotiator  |      |
+| Presenter - Vice Negotiator  |      |
+| Slide Designer(s)            |      |
+| Timekeeper / Rehearsal Coach |      |
 
 ---
 
-### Round 2: _______________
+### [7 minutes] Part 1 - Agreement Overview Slides (shared deck)
 
-**Roles swap:** Partner A = Employer Advocate, Partner B = Employee Advocate
+Part 1 is a joint section where **all four presenters** walk through the agreement objectively (**5 min total**). Add our team's slides directly into the shared deck.
 
-| Phase | Details |
-|-------|---------|
-| Partner A persuades B (2 min) | Employer side argues to Employee |
-| Partner B persuades A (2 min) | Employee side argues to Employer |
+**Typical split:** Union team covers issues 1-3 (Wages, Housing, Pesticide Safety); Management team covers issues 4-6 (Union Recognition, Contract Duration, Grievance Procedure). Adjust if your pair prefers a different split.
 
-**Debrief (3 min):** Each pair shares with the group.
+**Our team adds the following slides to the shared deck (Part 1 section):**
 
-| Pair | What was the most convincing argument? |
-|------|---------------------------------------|
-| Pair 1 |  |
-| Pair 2 |  |
-| Pair 3 |  |
+| Slide # in Shared Deck | Content | Who Presents |
+|------------------------|---------|--------------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
----
+**Draft talking points for our Part 1 slides:**
 
-### [6 minutes] Final Reflection
+|  |  |
+|---|---|
+| 1 |  |
+| 2 |  |
+| 3 |  |
 
-| Question | Notes |
-|----------|-------|
-| Which topic was harder to argue? Why? |  |
-| Did your opinion change after hearing the other side? |  |
-| What was the single most persuasive point you heard today? |  |
+> Our Lead Negotiator should message the counterpart team's Lead Negotiator (via Canvas or text) after the meeting to confirm the slide order is consistent.
 
 ---
 
-### Connection to Negotiation Simulation
+### [16 minutes] Our Team's Perspective Section (10 min presentation)
 
-Today's class includes the Negotiation Simulation (Day 1). Reflect on how today's activity connects to the simulation.
+Add our team's perspective slides directly into the shared deck after the Part 1 section. Draft the full script for our **10-minute perspective**. Because this is a longer section, plan for 4-6 slides with specific examples, quotes, or data to fill the time convincingly.
 
-| Question | Your Team's Thoughts |
-|----------|---------------------|
-| How does understanding both union and management perspectives help in negotiations? |  |
-| What strategies from the activity might be useful in the simulation? |  |
+#### If We Are the Union Team - Part 2 Union Perspective (10 min)
+
+Explain why this agreement is a **victory for the farmworkers**. Lead + Vice divide the points, each speaking ~5 minutes.
+
+> **As a team, discuss each point below and decide what specific examples, stories, or arguments would be most persuasive.** Write the key phrases in the "Talking Points" column so the presenters know exactly what to say.
+
+| Point | Talking Points | Presenter (Lead / Vice) | Est. Time |
+|-------|----------------|-------------------------|-----------|
+| Key Wins (wages, safety, recognition) |  |  | 3 min |
+| Honest Compromises Made |  |  | 2 min |
+| Historical Context (UFW Struggle, Chavez, Huerta, boycott) |  |  | 2 min |
+| Improvement vs. Status Quo ($1.25/hr, $2/day shacks, pesticide poisoning) |  |  | 2 min |
+| Closing - What This Means for Farmworkers Going Forward |  |  | 1 min |
+
+#### If We Are the Management Team - Part 3 Management Perspective (10 min)
+
+Explain why this agreement **works for the grower**. Lead + Vice divide the three required elements, each speaking ~5 minutes.
+
+> **As a team, discuss each element below and decide what specific examples, numbers, or arguments would be most persuasive.** Write the key phrases in the "Talking Points" column so the presenters know exactly what to say.
+
+| Element | Talking Points | Presenter (Lead / Vice) | Est. Time |
+|---------|----------------|-------------------------|-----------|
+| 1. Restoration of Productivity (ends boycott, stabilizes workforce, reduces turnover) |  |  | 3 min |
+| 2. Improvement of Public Image (resolves dispute, enhances reputation, consumer trust) |  |  | 3 min |
+| 3. Financial Sustainability (commitments are manageable, protect long-term viability) |  |  | 3 min |
+| Closing - What This Means for the Farm Going Forward |  |  | 1 min |
 
 ---
 
 ### [1 minute] Wrap-up
 
-Check the syllabus to find out when the next team meeting will be. Discuss who will be the next Notetaker.
-
-**Our next meeting:**
+Confirm next class = **Joint Pair Presentation + Best Pair Vote**.
 
 | Item | Details |
 |------|---------|
-| Date |  |
-| Time |  |
-| Meeting Location |  |
-| Notetaker |  |
+| Presentation Date |  |
+| Lead + Vice Negotiator confirmed to present |  |
+| Who brings the laptop / controls slides |  |
 
 ---
 
@@ -198,12 +193,10 @@ Check the syllabus to find out when the next team meeting will be. Discuss who w
 
 Conduct a survey for self/peer evaluation. You can find the URL in the syllabus.
 
-**Tip:** Bookmark this survey URL on your phone. You will use it every week for team meetings.
-
-Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members. The completion code will be used as an attendance check.
+Once you finish the survey, you will receive the survey completion code. The Notetaker needs to collect all survey completion codes from team members.
 
 | Name | Survey Completion Code |
-|------|----------------------|
+|------|------------------------|
 | 1. |  |
 | 2. |  |
 | 3. |  |
