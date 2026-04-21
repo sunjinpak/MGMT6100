@@ -13,16 +13,11 @@ title: "Team-Meeting-10"
 
 **Important:** The Union team and the Management team meet **separately today** (not together). Each team adds its pages to the **shared slide deck** that is linked in the syllabus under the 4/23 row (Company A or Company B, Management v.s. Union [Slide]). Both teams work on the same deck but on different slides.
 
-**Which team is this?**
-
-| | |
-|---|---|
+| Item | Details |
+|------|---------|
 | Our Team (Union or Management) |  |
 | Our Team Number |  |
 | Our Negotiation Counterpart Team Number |  |
-
-| Item | Details |
-|------|---------|
 | Meeting Date |  |
 | Meeting Time |  |
 | Meeting Location |  |
