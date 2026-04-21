@@ -31,21 +31,51 @@ def set_table_borders(table):
         tbl.insert(0, tblPr)
 
 def set_table_full_width(table):
-    """Set table width to 100% of page width."""
+    """Set table width to 100% of page width with fixed layout and equal column widths."""
     tbl = table._tbl
     tblPr = tbl.tblPr
     if tblPr is None:
         tblPr = parse_xml(r'<w:tblPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"/>')
         tbl.insert(0, tblPr)
 
-    # Remove existing width setting if any
+    # Remove existing width and layout settings if any
     for child in list(tblPr):
-        if child.tag.endswith('}tblW'):
+        if child.tag.endswith('}tblW') or child.tag.endswith('}tblLayout'):
             tblPr.remove(child)
 
     # Set width to 100% (5000 = 100% in twentieths of a percent)
     tblW = parse_xml(r'<w:tblW xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:type="pct" w:w="5000"/>')
     tblPr.insert(0, tblW)
+
+    # Set fixed layout so column widths are respected (not autofit)
+    tblLayout = parse_xml(r'<w:tblLayout xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:type="fixed"/>')
+    tblPr.append(tblLayout)
+
+    # Set equal column widths across the usable page width (~16.5cm / 9360 twips)
+    num_cols = len(table.columns)
+    if num_cols > 0:
+        col_width_twips = 9360 // num_cols
+
+        # Update tblGrid
+        tblGrid = tbl.find(qn('w:tblGrid'))
+        if tblGrid is not None:
+            tbl.remove(tblGrid)
+        new_grid_xml = '<w:tblGrid xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">'
+        for _ in range(num_cols):
+            new_grid_xml += f'<w:gridCol w:w="{col_width_twips}"/>'
+        new_grid_xml += '</w:tblGrid>'
+        new_grid = parse_xml(new_grid_xml)
+        tbl.insert(list(tbl).index(tblPr) + 1, new_grid)
+
+        # Set width on each cell
+        for row in table.rows:
+            for cell in row.cells:
+                tcPr = cell._tc.get_or_add_tcPr()
+                for child in list(tcPr):
+                    if child.tag.endswith('}tcW'):
+                        tcPr.remove(child)
+                tcW = parse_xml(f'<w:tcW xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:type="dxa" w:w="{col_width_twips}"/>')
+                tcPr.append(tcW)
 
 def escape_xml(text):
     """Escape special XML characters."""
@@ -258,40 +288,52 @@ def postprocess_word(doc, filename=''):
 
     # Set column widths for specific tables (Syllabus)
     if 'syllabus' in filename.lower():
+        def set_custom_col_widths_cm(table, widths_cm):
+            """Override tblGrid and cell widths with specific column widths in cm."""
+            tbl = table._tbl
+            widths_twips = [int(w * 567) for w in widths_cm]
+            tblPr = tbl.tblPr
+            tblGrid = tbl.find(qn('w:tblGrid'))
+            if tblGrid is not None:
+                tbl.remove(tblGrid)
+            new_grid_xml = '<w:tblGrid xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">'
+            for w in widths_twips:
+                new_grid_xml += f'<w:gridCol w:w="{w}"/>'
+            new_grid_xml += '</w:tblGrid>'
+            new_grid = parse_xml(new_grid_xml)
+            tbl.insert(list(tbl).index(tblPr) + 1, new_grid)
+            for row in table.rows:
+                for i, cell in enumerate(row.cells):
+                    if i < len(widths_twips):
+                        tcPr = cell._tc.get_or_add_tcPr()
+                        for child in list(tcPr):
+                            if child.tag.endswith('}tcW'):
+                                tcPr.remove(child)
+                        tcW = parse_xml(f'<w:tcW xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" w:type="dxa" w:w="{widths_twips[i]}"/>')
+                        tcPr.append(tcW)
+
         for table in doc.tables:
             first_cell = table.rows[0].cells[0].text.strip().lower()
 
             # Weekly Schedule table (2 columns: Class, Contents)
             if len(table.columns) == 2 and 'class' in first_cell:
-                for row in table.rows:
-                    row.cells[0].width = Cm(3)
-                    row.cells[1].width = Cm(14)
+                set_custom_col_widths_cm(table, [3, 14])
 
             # Grading Criteria table (3 columns: Assessment, Points, %)
             if len(table.columns) == 3 and 'assessment' in first_cell:
-                for row in table.rows:
-                    row.cells[0].width = Cm(9)
-                    row.cells[1].width = Cm(5)
-                    row.cells[2].width = Cm(2)
+                set_custom_col_widths_cm(table, [9, 5, 2])
 
             # Course Structure table (3 columns: Stage, Module, Week)
             if len(table.columns) == 3 and 'stage' in first_cell:
-                for row in table.rows:
-                    row.cells[0].width = Cm(4)
-                    row.cells[1].width = Cm(9)
-                    row.cells[2].width = Cm(2)
+                set_custom_col_widths_cm(table, [4, 9, 2])
 
             # Grading Scale table (2 columns: Grade, Range)
             if len(table.columns) == 2 and 'grade' in first_cell:
-                for row in table.rows:
-                    row.cells[0].width = Cm(3)
-                    row.cells[1].width = Cm(5)
+                set_custom_col_widths_cm(table, [3, 5])
 
             # Important Dates table (2 columns: Date, Event)
             if len(table.columns) == 2 and 'date' in first_cell:
-                for row in table.rows:
-                    row.cells[0].width = Cm(4)
-                    row.cells[1].width = Cm(12)
+                set_custom_col_widths_cm(table, [4, 12])
 
     # Make all hyperlinks blue and underlined
     body = doc._body._body
